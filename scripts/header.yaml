@@ -1,0 +1,9 @@
+---
+title: "Trumpworld Network Analysis"
+date: "`r Sys.time()`"
+author: Benjamin Chan (https://github.com/benjamin-chan/trumpworld)
+output:
+  html_document:
+    toc: true
+    theme: simplex
+---

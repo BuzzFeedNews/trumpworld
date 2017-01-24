@@ -1,0 +1,30 @@
+# Preamble
+
+Set working directory.
+
+```{r}
+setwd("~/Projects/trumpworld/scripts")
+```
+
+Load libraries.
+
+```{r}
+library(igraph)
+library(magrittr)
+library(dplyr)
+library(ggplot2)
+library(knitr)
+```
+
+Reproducibility steps.
+
+```{r}
+sessionInfo()
+set.seed(as.integer(as.Date("2017-01-20")))
+```
+
+Source user-defined functions.
+
+```{r, eval = FALSE}
+sapply(list.files("../lib", full.names = TRUE), source)
+```
