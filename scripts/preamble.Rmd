@@ -12,8 +12,10 @@ Load libraries.
 library(igraph)
 library(magrittr)
 library(dplyr)
+library(readr)
 library(ggplot2)
 library(knitr)
+library(networkD3)
 ```
 
 Reproducibility steps.

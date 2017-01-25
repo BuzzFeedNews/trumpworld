@@ -7,7 +7,10 @@ Sys.time0 <- Sys.time()
 
 sink("script.log")
 files <- c("header.yaml",
-           "preamble.Rmd")
+           "preamble.Rmd",
+           "read.Rmd",
+           "centrality.Rmd",
+           "visualize.Rmd")
 f <- file("master.Rmd", open = "w")
 for (i in 1:length(files)) {
     x <- readLines(files[i])
