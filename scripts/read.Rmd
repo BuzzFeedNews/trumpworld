@@ -1,0 +1,13 @@
+# Read data
+
+See http://r.prevos.net/trumpworld-analysis/
+
+Read the `.graphml` file.
+
+```{r, eval = FALSE}
+f <- "../data/trumpworld.graphml"
+G <- f %>% read_graph(format = "graphml")
+df <- igraph::as_data_frame(G, what = "both")
+names(df)
+str(df)
+```
