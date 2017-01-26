@@ -14,7 +14,7 @@ top <-
 top %>% kable
 ```
 
-Not surprisingly, `r top$id[1]` is the most connected.
+Not surprisingly, `r top$node[1]` is the most connected.
 
 What entities are the top 5% connected nodes (in terms of 
 [*closeness*](https://en.wikipedia.org/wiki/Centrality#Closeness_centrality))?

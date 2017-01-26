@@ -1,6 +1,6 @@
 # Visualize
 
-Produce a zoomable, interactive network plots of
+Produce zoomable, interactive network plots of
 
 * The **entire** network
   * [HTML](bignet.html)

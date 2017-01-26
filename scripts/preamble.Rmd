@@ -21,8 +21,8 @@ library(networkD3)
 Reproducibility steps.
 
 ```{r}
-sessionInfo()
-set.seed(as.integer(as.Date("2017-01-20")))
+sessionInfo() %>% print(locale = FALSE)
+"2017-01-20" %>% as.Date %>% as.integer %>% set.seed
 ```
 
 Source user-defined functions.
