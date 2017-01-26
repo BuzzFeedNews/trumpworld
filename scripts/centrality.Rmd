@@ -60,4 +60,4 @@ sizes(C)[order(sizes(C), decreasing=TRUE)]
 
 Wow.
 That's one big community there with `r max(sizes(C))` nodes.
-Let's visualize this one.
+Let's call this community the **primary community**.
