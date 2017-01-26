@@ -8,6 +8,9 @@ Read the `.graphml` file.
 f <- "../data/trumpworld.graphml"
 G <- f %>% read_graph(format = "graphml")
 df <- igraph::as_data_frame(G, what = "both")
+df$vertices <-
+  df$vertices %>% 
+  mutate(node = 1:nrow(.))
 names(df)
 str(df)
 ```
