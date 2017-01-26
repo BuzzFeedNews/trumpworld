@@ -1,6 +1,6 @@
 ---
 title: "Trumpworld Network Analysis"
-date: "2017-01-24 23:46:26"
+date: "2017-01-25 19:39:04"
 author: Benjamin Chan (https://github.com/benjamin-chan/trumpworld)
 output:
   html_document:
@@ -55,10 +55,9 @@ sessionInfo()
 ## [1] stats     graphics  grDevices utils     datasets  methods   base     
 ## 
 ## other attached packages:
-##  [1] rmarkdown_1.3     networkD3_0.2.13  readr_1.0.0      
-##  [4] tidyr_0.6.1       knitr_1.15.1      ggplot2_2.2.1    
-##  [7] dplyr_0.5.0       magrittr_1.5      igraph_1.0.1     
-## [10] checkpoint_0.3.18
+## [1] rmarkdown_1.3     networkD3_0.2.13  knitr_1.15.1      ggplot2_2.2.1    
+## [5] readr_1.0.0       dplyr_0.5.0       magrittr_1.5      igraph_1.0.1     
+## [9] checkpoint_0.3.18
 ## 
 ## loaded via a namespace (and not attached):
 ##  [1] Rcpp_0.12.8      munsell_0.4.3    colorspace_1.3-2 R6_2.2.0        
@@ -66,7 +65,7 @@ sessionInfo()
 ##  [9] grid_3.3.2       gtable_0.2.0     DBI_0.5-1        htmltools_0.3.5 
 ## [13] yaml_2.1.14      lazyeval_0.2.0   assertthat_0.1   digest_0.6.10   
 ## [17] rprojroot_1.1    tibble_1.2       htmlwidgets_0.8  evaluate_0.10   
-## [21] stringi_1.1.2    scales_0.4.1     backports_1.0.4  jsonlite_1.2
+## [21] stringi_1.1.2    backports_1.0.4  scales_0.4.1     jsonlite_1.2
 ```
 
 ```r
@@ -93,6 +92,9 @@ Read the `.graphml` file.
 f <- "../data/trumpworld.graphml"
 G <- f %>% read_graph(format = "graphml")
 df <- igraph::as_data_frame(G, what = "both")
+df$vertices <-
+  df$vertices %>% 
+  mutate(node = 1:nrow(.))
 names(df)
 str(df)
 ```
@@ -480,21 +482,55 @@ sizes(C)[order(sizes(C), decreasing=TRUE)]
 
 Wow.
 That's one big community there with 501 nodes.
-Let's visualize this one.
+Let's call this community the **primary community**.
 
 ---
 
 # Visualize
 
-The interactive network is at [docs/net]().
+Produce a zoomable, interactive network plots of
+
+* The **entire** network
+  * [HTML](bignet.html)
+* The **primary community** network
+  * [HTML](primenet.html)
+
+
+```r
+edges <-
+  G %>% 
+  as_edgelist %>% 
+  data.frame %>% 
+  rename(source = X1,
+         target = X2) %>% 
+  mutate(source = source - 1,
+         target = target - 1,
+         value = 1)
+vertices <- 
+  G %>% 
+  vertex_attr("id") %>% 
+  data.frame %>% 
+  mutate(group = 1)
+names(vertices) <- c("id", "group")
+N <- forceNetwork(Links = edges, 
+                  Nodes = vertices,
+                  Source = "source", 
+                  Target = "target", 
+                  # Value = "value",
+                  NodeID = "id", 
+                  Group = "group",
+                  opacity = 1/2,
+                  fontSize = 16, fontFamily = "sans-serif", zoom = TRUE)
+saveNetwork(N, "../docs/bignet.html")
+```
 
 
 ```r
 communityID <- names(sizes(C))[sizes(C) == max(sizes(C))]
-nodesInBigNet <- (1:nrow(df$vertices))[C$membership == communityID]
+nodesInPrimeNet <- (1:nrow(df$vertices))[C$membership == communityID]
 G1 <-
   G %>% 
-  induced_subgraph(df$vertices$node[nodesInBigNet])
+  induced_subgraph(df$vertices$node[nodesInPrimeNet])
 edges <-
   G1 %>% 
   as_edgelist %>% 
@@ -519,5 +555,5 @@ N <- forceNetwork(Links = edges,
                   Group = "group",
                   opacity = 1/2,
                   fontSize = 16, fontFamily = "sans-serif", zoom = TRUE)
-saveNetwork(N, "../docs/network.html")
+saveNetwork(N, "../docs/primenet.html")
 ```

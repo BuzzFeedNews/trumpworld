@@ -1,0 +1,2138 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>@font-face {
+  font-family: octicons-anchor;
+  src: url(data:font/woff;charset=utf-8;base64,d09GRgABAAAAAAYcAA0AAAAACjQAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAABMAAAABwAAAAca8vGTk9TLzIAAAFMAAAARAAAAFZG1VHVY21hcAAAAZAAAAA+AAABQgAP9AdjdnQgAAAB0AAAAAQAAAAEACICiGdhc3AAAAHUAAAACAAAAAj//wADZ2x5ZgAAAdwAAADRAAABEKyikaNoZWFkAAACsAAAAC0AAAA2AtXoA2hoZWEAAALgAAAAHAAAACQHngNFaG10eAAAAvwAAAAQAAAAEAwAACJsb2NhAAADDAAAAAoAAAAKALIAVG1heHAAAAMYAAAAHwAAACABEAB2bmFtZQAAAzgAAALBAAAFu3I9x/Nwb3N0AAAF/AAAAB0AAAAvaoFvbwAAAAEAAAAAzBdyYwAAAADP2IQvAAAAAM/bz7t4nGNgZGFgnMDAysDB1Ml0hoGBoR9CM75mMGLkYGBgYmBlZsAKAtJcUxgcPsR8iGF2+O/AEMPsznAYKMwIkgMA5REMOXicY2BgYGaAYBkGRgYQsAHyGMF8FgYFIM0ChED+h5j//yEk/3KoSgZGNgYYk4GRCUgwMaACRoZhDwCs7QgGAAAAIgKIAAAAAf//AAJ4nHWMMQrCQBBF/0zWrCCIKUQsTDCL2EXMohYGSSmorScInsRGL2DOYJe0Ntp7BK+gJ1BxF1stZvjz/v8DRghQzEc4kIgKwiAppcA9LtzKLSkdNhKFY3HF4lK69ExKslx7Xa+vPRVS43G98vG1DnkDMIBUgFN0MDXflU8tbaZOUkXUH0+U27RoRpOIyCKjbMCVejwypzJJG4jIwb43rfl6wbwanocrJm9XFYfskuVC5K/TPyczNU7b84CXcbxks1Un6H6tLH9vf2LRnn8Ax7A5WQAAAHicY2BkYGAA4teL1+yI57f5ysDNwgAC529f0kOmWRiYVgEpDgYmEA8AUzEKsQAAAHicY2BkYGB2+O/AEMPCAAJAkpEBFbAAADgKAe0EAAAiAAAAAAQAAAAEAAAAAAAAKgAqACoAiAAAeJxjYGRgYGBhsGFgYgABEMkFhAwM/xn0QAIAD6YBhwB4nI1Ty07cMBS9QwKlQapQW3VXySvEqDCZGbGaHULiIQ1FKgjWMxknMfLEke2A+IJu+wntrt/QbVf9gG75jK577Lg8K1qQPCfnnnt8fX1NRC/pmjrk/zprC+8D7tBy9DHgBXoWfQ44Av8t4Bj4Z8CLtBL9CniJluPXASf0Lm4CXqFX8Q84dOLnMB17N4c7tBo1AS/Qi+hTwBH4rwHHwN8DXqQ30XXAS7QaLwSc0Gn8NuAVWou/gFmnjLrEaEh9GmDdDGgL3B4JsrRPDU2hTOiMSuJUIdKQQayiAth69r6akSSFqIJuA19TrzCIaY8sIoxyrNIrL//pw7A2iMygkX5vDj+G+kuoLdX4GlGK/8Lnlz6/h9MpmoO9rafrz7ILXEHHaAx95s9lsI7AHNMBWEZHULnfAXwG9/ZqdzLI08iuwRloXE8kfhXYAvE23+23DU3t626rbs8/8adv+9DWknsHp3E17oCf+Z48rvEQNZ78paYM38qfk3v/u3l3u3GXN2Dmvmvpf1Srwk3pB/VSsp512bA/GG5i2WJ7wu430yQ5K3nFGiOqgtmSB5pJVSizwaacmUZzZhXLlZTq8qGGFY2YcSkqbth6aW1tRmlaCFs2016m5qn36SbJrqosG4uMV4aP2PHBmB3tjtmgN2izkGQyLWprekbIntJFing32a5rKWCN/SdSoga45EJykyQ7asZvHQ8PTm6cslIpwyeyjbVltNikc2HTR7YKh9LBl9DADC0U/jLcBZDKrMhUBfQBvXRzLtFtjU9eNHKin0x5InTqb8lNpfKv1s1xHzTXRqgKzek/mb7nB8RZTCDhGEX3kK/8Q75AmUM/eLkfA+0Hi908Kx4eNsMgudg5GLdRD7a84npi+YxNr5i5KIbW5izXas7cHXIMAau1OueZhfj+cOcP3P8MNIWLyYOBuxL6DRylJ4cAAAB4nGNgYoAALjDJyIAOWMCiTIxMLDmZedkABtIBygAAAA==) format('woff');
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+body .markdown-body {
+    padding: 45px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    word-wrap: break-word;
+}
+
+pre {
+    font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+.markdown-body {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  color: #333;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.markdown-body a {
+  background-color: transparent;
+}
+
+.markdown-body a:active,
+.markdown-body a:hover {
+  outline: 0;
+}
+
+.markdown-body strong {
+  font-weight: bold;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+.markdown-body img {
+  border: 0;
+}
+
+.markdown-body hr {
+  box-sizing: content-box;
+  height: 0;
+}
+
+.markdown-body pre {
+  overflow: auto;
+}
+
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+.markdown-body input {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+.markdown-body html input[disabled] {
+  cursor: default;
+}
+
+.markdown-body input {
+  line-height: normal;
+}
+
+.markdown-body input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body input {
+  font: 13px / 1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.markdown-body a {
+  color: #4078c0;
+  text-decoration: none;
+}
+
+.markdown-body a:hover,
+.markdown-body a:active {
+  text-decoration: underline;
+}
+
+.markdown-body hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.markdown-body hr:before {
+  display: table;
+  content: "";
+}
+
+.markdown-body hr:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 1.1;
+}
+
+.markdown-body h1 {
+  font-size: 30px;
+}
+
+.markdown-body h2 {
+  font-size: 21px;
+}
+
+.markdown-body h3 {
+  font-size: 16px;
+}
+
+.markdown-body h4 {
+  font-size: 14px;
+}
+
+.markdown-body h5 {
+  font-size: 12px;
+}
+
+.markdown-body h6 {
+  font-size: 11px;
+}
+
+.markdown-body blockquote {
+  margin: 0;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body ol ol,
+.markdown-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-body ul ul ol,
+.markdown-body ul ol ol,
+.markdown-body ol ul ol,
+.markdown-body ol ol ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-body dd {
+  margin-left: 0;
+}
+
+.markdown-body code {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 12px;
+}
+
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 0;
+  font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+.markdown-body .select::-ms-expand {
+  opacity: 0;
+}
+
+.markdown-body .octicon {
+  font: normal normal normal 16px/1 octicons-anchor;
+  display: inline-block;
+  text-decoration: none;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.markdown-body .octicon-link:before {
+  content: '\f05c';
+}
+
+.markdown-body:before {
+  display: table;
+  content: "";
+}
+
+.markdown-body:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.markdown-body>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+.markdown-body a:not([href]) {
+  color: inherit;
+  text-decoration: none;
+}
+
+.markdown-body .anchor {
+  display: inline-block;
+  padding-right: 2px;
+  margin-left: -18px;
+}
+
+.markdown-body .anchor:focus {
+  outline: none;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 1em;
+  margin-bottom: 16px;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+.markdown-body h1 .octicon-link,
+.markdown-body h2 .octicon-link,
+.markdown-body h3 .octicon-link,
+.markdown-body h4 .octicon-link,
+.markdown-body h5 .octicon-link,
+.markdown-body h6 .octicon-link {
+  color: #000;
+  vertical-align: middle;
+  visibility: hidden;
+}
+
+.markdown-body h1:hover .anchor,
+.markdown-body h2:hover .anchor,
+.markdown-body h3:hover .anchor,
+.markdown-body h4:hover .anchor,
+.markdown-body h5:hover .anchor,
+.markdown-body h6:hover .anchor {
+  text-decoration: none;
+}
+
+.markdown-body h1:hover .anchor .octicon-link,
+.markdown-body h2:hover .anchor .octicon-link,
+.markdown-body h3:hover .anchor .octicon-link,
+.markdown-body h4:hover .anchor .octicon-link,
+.markdown-body h5:hover .anchor .octicon-link,
+.markdown-body h6:hover .anchor .octicon-link {
+  visibility: visible;
+}
+
+.markdown-body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h1 .anchor {
+  line-height: 1;
+}
+
+.markdown-body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h2 .anchor {
+  line-height: 1;
+}
+
+.markdown-body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+.markdown-body h3 .anchor {
+  line-height: 1.2;
+}
+
+.markdown-body h4 {
+  font-size: 1.25em;
+}
+
+.markdown-body h4 .anchor {
+  line-height: 1.2;
+}
+
+.markdown-body h5 {
+  font-size: 1em;
+}
+
+.markdown-body h5 .anchor {
+  line-height: 1.1;
+}
+
+.markdown-body h6 {
+  font-size: 1em;
+  color: #777;
+}
+
+.markdown-body h6 .anchor {
+  line-height: 1.1;
+}
+
+.markdown-body p,
+.markdown-body blockquote,
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body dl,
+.markdown-body table,
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.markdown-body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 2em;
+}
+
+.markdown-body ul ul,
+.markdown-body ul ol,
+.markdown-body ol ol,
+.markdown-body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body li>p {
+  margin-top: 16px;
+}
+
+.markdown-body dl {
+  padding: 0;
+}
+
+.markdown-body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.markdown-body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+
+.markdown-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+
+.markdown-body table th {
+  font-weight: bold;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  box-sizing: content-box;
+  background-color: #fff;
+}
+
+.markdown-body code {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+
+.markdown-body code:before,
+.markdown-body code:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+
+.markdown-body pre>code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.markdown-body .highlight {
+  margin-bottom: 16px;
+}
+
+.markdown-body .highlight pre,
+.markdown-body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f7f7f7;
+  border-radius: 3px;
+}
+
+.markdown-body .highlight pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.markdown-body pre {
+  word-wrap: normal;
+}
+
+.markdown-body pre code {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+
+.markdown-body pre code:before,
+.markdown-body pre code:after {
+  content: normal;
+}
+
+.markdown-body kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font-size: 11px;
+  line-height: 10px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb;
+}
+
+.markdown-body .pl-c {
+  color: #969896;
+}
+
+.markdown-body .pl-c1,
+.markdown-body .pl-s .pl-v {
+  color: #0086b3;
+}
+
+.markdown-body .pl-e,
+.markdown-body .pl-en {
+  color: #795da3;
+}
+
+.markdown-body .pl-s .pl-s1,
+.markdown-body .pl-smi {
+  color: #333;
+}
+
+.markdown-body .pl-ent {
+  color: #63a35c;
+}
+
+.markdown-body .pl-k {
+  color: #a71d5d;
+}
+
+.markdown-body .pl-pds,
+.markdown-body .pl-s,
+.markdown-body .pl-s .pl-pse .pl-s1,
+.markdown-body .pl-sr,
+.markdown-body .pl-sr .pl-cce,
+.markdown-body .pl-sr .pl-sra,
+.markdown-body .pl-sr .pl-sre {
+  color: #183691;
+}
+
+.markdown-body .pl-v {
+  color: #ed6a43;
+}
+
+.markdown-body .pl-id {
+  color: #b52a1d;
+}
+
+.markdown-body .pl-ii {
+  background-color: #b52a1d;
+  color: #f8f8f8;
+}
+
+.markdown-body .pl-sr .pl-cce {
+  color: #63a35c;
+  font-weight: bold;
+}
+
+.markdown-body .pl-ml {
+  color: #693a17;
+}
+
+.markdown-body .pl-mh,
+.markdown-body .pl-mh .pl-en,
+.markdown-body .pl-ms {
+  color: #1d3e81;
+  font-weight: bold;
+}
+
+.markdown-body .pl-mq {
+  color: #008080;
+}
+
+.markdown-body .pl-mi {
+  color: #333;
+  font-style: italic;
+}
+
+.markdown-body .pl-mb {
+  color: #333;
+  font-weight: bold;
+}
+
+.markdown-body .pl-md {
+  background-color: #ffecec;
+  color: #bd2c00;
+}
+
+.markdown-body .pl-mi1 {
+  background-color: #eaffea;
+  color: #55a532;
+}
+
+.markdown-body .pl-mdr {
+  color: #795da3;
+  font-weight: bold;
+}
+
+.markdown-body .pl-mo {
+  color: #1d3e81;
+}
+
+.markdown-body kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  line-height: 10px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb;
+}
+
+.markdown-body .plan-price-unit {
+  color: #767676;
+  font-weight: normal;
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item input {
+  margin: 0 0.35em 0.25em -1.6em;
+  vertical-align: middle;
+}
+
+.markdown-body .plan-choice {
+  padding: 15px;
+  padding-left: 40px;
+  display: block;
+  border: 1px solid #e0e0e0;
+  position: relative;
+  font-weight: normal;
+  background-color: #fafafa;
+}
+
+.markdown-body .plan-choice.open {
+  background-color: #fff;
+}
+
+.markdown-body .plan-choice.open .plan-choice-seat-breakdown {
+  display: block;
+}
+
+.markdown-body .plan-choice-free {
+  border-radius: 3px 3px 0 0;
+}
+
+.markdown-body .plan-choice-paid {
+  border-radius: 0 0 3px 3px;
+  border-top: 0;
+  margin-bottom: 20px;
+}
+
+.markdown-body .plan-choice-radio {
+  position: absolute;
+  left: 15px;
+  top: 18px;
+}
+
+.markdown-body .plan-choice-exp {
+  color: #999;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.markdown-body .plan-choice-seat-breakdown {
+  margin-top: 10px;
+  display: none;
+}
+
+.markdown-body :checked+.radio-label {
+  z-index: 1;
+  position: relative;
+  border-color: #4078c0;
+}
+</style><title>index</title></head><body><article class="markdown-body"><hr>
+
+<p>title: "Trumpworld Network Analysis"
+date: "2017-01-25 19:39:04"
+author: Benjamin Chan (<a href="https://github.com/benjamin-chan/trumpworld">https://github.com/benjamin-chan/trumpworld</a>)
+output:
+  html_document:
+    toc: true</p>
+
+<h2>
+<a id="user-content-----theme-simplex" class="anchor" href="#----theme-simplex" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>    theme: simplex</h2>
+
+<hr>
+
+<h1>
+<a id="user-content-preamble" class="anchor" href="#preamble" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Preamble</h1>
+
+<p>Set working directory.</p>
+
+<div class="highlight highlight-source-r"><pre>setwd(<span class="pl-s"><span class="pl-pds">"</span>~/Projects/trumpworld/scripts<span class="pl-pds">"</span></span>)</pre></div>
+
+<p>Load libraries.</p>
+
+<div class="highlight highlight-source-r"><pre>library(<span class="pl-smi">igraph</span>)
+library(<span class="pl-smi">magrittr</span>)
+library(<span class="pl-smi">dplyr</span>)
+library(<span class="pl-smi">readr</span>)
+library(<span class="pl-smi">ggplot2</span>)
+library(<span class="pl-smi">knitr</span>)
+library(<span class="pl-smi">networkD3</span>)</pre></div>
+
+<p>Reproducibility steps.</p>
+
+<div class="highlight highlight-source-r"><pre>sessionInfo()</pre></div>
+
+<pre><code>## R version 3.3.2 (2016-10-31)
+## Platform: x86_64-w64-mingw32/x64 (64-bit)
+## Running under: Windows &gt;= 8 x64 (build 9200)
+## 
+## locale:
+## [1] LC_COLLATE=English_United States.1252 
+## [2] LC_CTYPE=English_United States.1252   
+## [3] LC_MONETARY=English_United States.1252
+## [4] LC_NUMERIC=C                          
+## [5] LC_TIME=English_United States.1252    
+## 
+## attached base packages:
+## [1] stats     graphics  grDevices utils     datasets  methods   base     
+## 
+## other attached packages:
+## [1] rmarkdown_1.3     networkD3_0.2.13  knitr_1.15.1      ggplot2_2.2.1    
+## [5] readr_1.0.0       dplyr_0.5.0       magrittr_1.5      igraph_1.0.1     
+## [9] checkpoint_0.3.18
+## 
+## loaded via a namespace (and not attached):
+##  [1] Rcpp_0.12.8      munsell_0.4.3    colorspace_1.3-2 R6_2.2.0        
+##  [5] stringr_1.1.0    highr_0.6        plyr_1.8.4       tools_3.3.2     
+##  [9] grid_3.3.2       gtable_0.2.0     DBI_0.5-1        htmltools_0.3.5 
+## [13] yaml_2.1.14      lazyeval_0.2.0   assertthat_0.1   digest_0.6.10   
+## [17] rprojroot_1.1    tibble_1.2       htmlwidgets_0.8  evaluate_0.10   
+## [21] stringi_1.1.2    backports_1.0.4  scales_0.4.1     jsonlite_1.2
+</code></pre>
+
+<div class="highlight highlight-source-r"><pre>set.seed(as.integer(as.Date(<span class="pl-s"><span class="pl-pds">"</span>2017-01-20<span class="pl-pds">"</span></span>)))</pre></div>
+
+<p>Source user-defined functions.</p>
+
+<div class="highlight highlight-source-r"><pre>sapply(list.files(<span class="pl-s"><span class="pl-pds">"</span>../lib<span class="pl-pds">"</span></span>, <span class="pl-v">full.names</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>), <span class="pl-smi">source</span>)</pre></div>
+
+<hr>
+
+<h1>
+<a id="user-content-read-data" class="anchor" href="#read-data" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Read data</h1>
+
+<p>See <a href="http://r.prevos.net/trumpworld-analysis/">http://r.prevos.net/trumpworld-analysis/</a></p>
+
+<p>Read the <code>.graphml</code> file.</p>
+
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">f</span> <span class="pl-k">&lt;-</span> <span class="pl-s"><span class="pl-pds">"</span>../data/trumpworld.graphml<span class="pl-pds">"</span></span>
+<span class="pl-smi">G</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">f</span> %<span class="pl-k">&gt;</span>% read_graph(<span class="pl-v">format</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>graphml<span class="pl-pds">"</span></span>)
+<span class="pl-smi">df</span> <span class="pl-k">&lt;-</span> <span class="pl-e">igraph</span><span class="pl-k">::</span>as_data_frame(<span class="pl-smi">G</span>, <span class="pl-v">what</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>both<span class="pl-pds">"</span></span>)
+<span class="pl-smi">df</span><span class="pl-k">$</span><span class="pl-smi">vertices</span> <span class="pl-k">&lt;-</span>
+  <span class="pl-smi">df</span><span class="pl-k">$</span><span class="pl-smi">vertices</span> %<span class="pl-k">&gt;</span>% 
+  mutate(<span class="pl-v">node</span> <span class="pl-k">=</span> <span class="pl-c1">1</span><span class="pl-k">:</span>nrow(.))
+names(<span class="pl-smi">df</span>)
+str(<span class="pl-smi">df</span>)</pre></div>
+
+<hr>
+
+<h1>
+<a id="user-content-centrality" class="anchor" href="#centrality" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Centrality</h1>
+
+<p>What entities are the top 5% connected nodes (in terms of 
+<a href="https://en.wikipedia.org/wiki/Centrality#Degree_centrality"><em>degree</em></a>)?</p>
+
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">threshold</span> <span class="pl-k">&lt;-</span> <span class="pl-c1">0.05</span>
+<span class="pl-smi">degree</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">G</span> %<span class="pl-k">&gt;</span>% <span class="pl-smi">degree</span>
+<span class="pl-smi">lim</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">degree</span> %<span class="pl-k">&gt;</span>% quantile(<span class="pl-v">probs</span> <span class="pl-k">=</span> <span class="pl-c1">1</span> <span class="pl-k">-</span> <span class="pl-smi">threshold</span>)
+<span class="pl-smi">top</span> <span class="pl-k">&lt;-</span>
+  <span class="pl-k">data.frame</span>(<span class="pl-v">node</span> <span class="pl-k">=</span> V(<span class="pl-smi">G</span>)<span class="pl-k">$</span><span class="pl-smi">id</span>, <span class="pl-v">degree</span> <span class="pl-k">=</span> <span class="pl-smi">degree</span>) %<span class="pl-k">&gt;</span>% 
+  filter(<span class="pl-smi">degree</span> <span class="pl-k">&gt;</span><span class="pl-k">=</span> <span class="pl-smi">lim</span>) %<span class="pl-k">&gt;</span>% 
+  arrange(<span class="pl-k">-</span><span class="pl-smi">degree</span>)
+<span class="pl-smi">top</span> %<span class="pl-k">&gt;</span>% <span class="pl-smi">kable</span></pre></div>
+
+<table>
+<thead>
+<tr>
+<th align="left">node</th>
+<th align="right">degree</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">DONALD J. TRUMP</td>
+<td align="right">618</td>
+</tr>
+<tr>
+<td align="left">WILBUR ROSS</td>
+<td align="right">129</td>
+</tr>
+<tr>
+<td align="left">STEVEN MNUCHIN</td>
+<td align="right">116</td>
+</tr>
+<tr>
+<td align="left">THRIVE CAPITAL</td>
+<td align="right">86</td>
+</tr>
+<tr>
+<td align="left">BETSY DEVOS</td>
+<td align="right">48</td>
+</tr>
+<tr>
+<td align="left">40 WALL STREET LLC</td>
+<td align="right">41</td>
+</tr>
+<tr>
+<td align="left">ELAINE CHAO</td>
+<td align="right">38</td>
+</tr>
+<tr>
+<td align="left">DJT HOLDINGS LLC</td>
+<td align="right">36</td>
+</tr>
+<tr>
+<td align="left">KUSHNER COMPANIES</td>
+<td align="right">32</td>
+</tr>
+<tr>
+<td align="left">TRUMP HOTELS &amp; CASINO RESORTS, INC.</td>
+<td align="right">29</td>
+</tr>
+<tr>
+<td align="left">JARED KUSHNER</td>
+<td align="right">28</td>
+</tr>
+<tr>
+<td align="left">TRUMP ORGANIZATION LLC</td>
+<td align="right">27</td>
+</tr>
+<tr>
+<td align="left">JOSHUA KUSHNER</td>
+<td align="right">24</td>
+</tr>
+<tr>
+<td align="left">DONALD TRUMP JR.</td>
+<td align="right">24</td>
+</tr>
+<tr>
+<td align="left">REX TILLERSON</td>
+<td align="right">22</td>
+</tr>
+<tr>
+<td align="left">TRUMP TOWER COMMERCIAL LLC</td>
+<td align="right">22</td>
+</tr>
+<tr>
+<td align="left">THE TRUMP ORGANIZATION, INC.</td>
+<td align="right">22</td>
+</tr>
+<tr>
+<td align="left">PAUL MANAFORT</td>
+<td align="right">18</td>
+</tr>
+<tr>
+<td align="left">THE ERIC TRUMP FOUNDATION</td>
+<td align="right">17</td>
+</tr>
+<tr>
+<td align="left">KELLYANNE CONWAY</td>
+<td align="right">17</td>
+</tr>
+<tr>
+<td align="left">BEN CARSON</td>
+<td align="right">15</td>
+</tr>
+<tr>
+<td align="left">STEPHEN BANNON</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="left">OMAROSÉ ONEE MANIGAULT</td>
+<td align="right">13</td>
+</tr>
+<tr>
+<td align="left">TOM PRICE</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td align="left">THOMAS J. BARRACK JR.</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td align="left">GARY COHN</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td align="left">IVANKA TRUMP</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td align="left">GOLDMAN SACHS</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td align="left">MICK MULVANEY</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="left">TAG AIR, INC.</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="left">ANDY PUZDER</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="left">COLONY NORTHSTAR, INC.</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="left">CHARLES KUSHNER</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="left">TTTT VENTURE LLC</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="left">NIKKI HALEY</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="left">MELANIA TRUMP</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="left">BAYROCK GROUP</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="left">MNC GROUP</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="left">TRUMP ENTERTAINMENT RESORTS, INC.</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="left">MICHAEL POMPEO</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="left">BLACK, MANAFORT, STONE AND KELLY</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="left">DAN COATS</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="left">DON MCGAHN</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="left">TOM BOSSERT</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="left">LINDA MCMAHON</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="left">RICK PERRY</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="left">ANDREW BREMBERG</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="left">CADRE</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="left">RYAN ZINKE</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="left">HEALTHCARE EQUITY PARTNERS LP</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="left">THE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC)</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="left">ERIC TRUMP</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="left">BAYROCK/SAPIR ORGANIZATION LLC</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="left">VIKTOR KHRAPUNOV</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="left">TRUMP PRODUCTIONS LLC</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="left">DEUTSCHE BANK</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="left">MARK BURNETT</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="left">REINCE PRIEBUS</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="left">TITAN ATLAS MANUFACTURING</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="left">401 MEZZ VENTURE LLC</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="left">401 NORTH WABASH VENTURE LLC</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="left">CARLISLE MANAGEMENT</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="left">TRUMP RUFFIN LLC</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="left">DT MARKS PUNE LLC</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="left">TRUMP PARK AVENUE LLC</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="left">SYLVANUS PARTNERS LLC</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="left">TRUMP SOHO MEMBER LLC</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="left">FELIPE YARYURA</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="left">JAMES MATTIS</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="left">SCOTT PRUITT</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="left">KATHLEEN TROIA MCFARLAND</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="left">THE DONALD J. TRUMP FOUNDATION</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="left">MICHAEL FLYNN</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="left">TRUMP INTERNATIONAL HOTELS MANAGEMENT LLC</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="left">DRINKS AMERICAS</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">MADISON AVENUE DIAMONDS</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">TRUMP MARKS PUNTA DEL ESTE LLC</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">SJ PETRO PUMP INVESTMENT LLC</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">TRUMP VINEYARD ESTATES LLC</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">COUNCIL FOR NATIONAL POLICY</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">MEHMET ALI YALCINDAG</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">DOGAN GROUP</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">RICHARD MARVIN "DICK" DEVOS JR.</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">RHONA GRAFF RICCIO</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">HUDSON WATERFRONT ASSOCIATES IV, L.P.</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">TRUMP BRIARCLIFF MANOR DEVELOPMENT LLC</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">MIKE PENCE</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">MARTIN SORRELL</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">HUDSON WATERFRONT ASSOCIATES V, L.P.</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">GOLF RECREATION SCOTLAND LIMITED</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">HUDSON WATERFRONT ASSOCIATES I, L.P.</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">TW VENTURE II LLC</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">TRUMP NATIONAL DORAL</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">OPO HOTEL MANAGER LLC</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">RUSSIAN-AMERICAN CHAMBER OF COMMERCE IN THE USA</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">TRUMP NATIONAL GOLF CLUB WASHINGTON DC LLC</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">SERGEI MILLIAN</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">THE TRUMP-EQUITABLE FIFTH AVENUE COMPANY</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">SEAN SPICER</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">HUDSON WATERFRONT ASSOCIATES III, L.P.</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">TRUMP MARKS HOLDINGS, L.P.</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">1290 AVENUE OF THE AMERICAS, A TENANCY-IN-COMMON</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">TURNBERRY SCOTLAND LLC</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">THC VENTURE III LLC</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">OSCAR INSURANCE CORPORATION</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">LFB ACQUISITION LLC</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">TRUMP LAS VEGAS MEMBER LLC</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">THE DONALD J. TRUMP REVOCABLE TRUST</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">KUSHNER PROPERTIES</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="left">TRUMP LAS VEGAS MANAGING MEMBER LLC</td>
+<td align="right">4</td>
+</tr>
+</tbody>
+</table>
+
+<p>Not surprisingly,  is the most connected.</p>
+
+<p>What entities are the top 5% connected nodes (in terms of 
+<a href="https://en.wikipedia.org/wiki/Centrality#Closeness_centrality"><em>closeness</em></a>)?</p>
+
+<p>Closeness is a measure of how many steps are required to access every other node.
+It's a measure of how close a node is to all the action.
+A node with high closeness, however, doesn't necessarily have to have very many connections or be in between relationships.</p>
+
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">closeness</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">G</span> %<span class="pl-k">&gt;</span>% <span class="pl-smi">closeness</span>
+<span class="pl-smi">lim</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">closeness</span> %<span class="pl-k">&gt;</span>% quantile(<span class="pl-v">probs</span> <span class="pl-k">=</span> <span class="pl-c1">1</span> <span class="pl-k">-</span> <span class="pl-smi">threshold</span>)
+<span class="pl-smi">top</span> <span class="pl-k">&lt;-</span>
+  <span class="pl-k">data.frame</span>(<span class="pl-v">node</span> <span class="pl-k">=</span> V(<span class="pl-smi">G</span>)<span class="pl-k">$</span><span class="pl-smi">id</span>, <span class="pl-v">closeness</span> <span class="pl-k">=</span> <span class="pl-smi">closeness</span>) %<span class="pl-k">&gt;</span>% 
+  filter(<span class="pl-smi">closeness</span> <span class="pl-k">&gt;</span><span class="pl-k">=</span> <span class="pl-smi">lim</span>) %<span class="pl-k">&gt;</span>% 
+  arrange(<span class="pl-k">-</span><span class="pl-smi">closeness</span>)
+<span class="pl-smi">top</span> %<span class="pl-k">&gt;</span>% <span class="pl-smi">kable</span></pre></div>
+
+<table>
+<thead>
+<tr>
+<th align="left">node</th>
+<th align="right">closeness</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">DONALD J. TRUMP</td>
+<td align="right">0.0002925</td>
+</tr>
+<tr>
+<td align="left">STEVEN MNUCHIN</td>
+<td align="right">0.0002145</td>
+</tr>
+<tr>
+<td align="left">IVANKA TRUMP</td>
+<td align="right">0.0002100</td>
+</tr>
+<tr>
+<td align="left">DINA POWELL</td>
+<td align="right">0.0002064</td>
+</tr>
+<tr>
+<td align="left">STEPHEN BANNON</td>
+<td align="right">0.0002057</td>
+</tr>
+<tr>
+<td align="left">GARY COHN</td>
+<td align="right">0.0002051</td>
+</tr>
+<tr>
+<td align="left">WILBUR ROSS</td>
+<td align="right">0.0002046</td>
+</tr>
+<tr>
+<td align="left">FELIPE YARYURA</td>
+<td align="right">0.0002033</td>
+</tr>
+<tr>
+<td align="left">THE DONALD J. TRUMP FOUNDATION</td>
+<td align="right">0.0002032</td>
+</tr>
+<tr>
+<td align="left">DONALD TRUMP JR.</td>
+<td align="right">0.0002017</td>
+</tr>
+<tr>
+<td align="left">MEHMET ALI YALCINDAG</td>
+<td align="right">0.0002017</td>
+</tr>
+<tr>
+<td align="left">TRUMP ORGANIZATION LLC</td>
+<td align="right">0.0002003</td>
+</tr>
+<tr>
+<td align="left">DJT HOLDINGS LLC</td>
+<td align="right">0.0001993</td>
+</tr>
+<tr>
+<td align="left">40 WALL STREET LLC</td>
+<td align="right">0.0001987</td>
+</tr>
+<tr>
+<td align="left">BETSY DEVOS</td>
+<td align="right">0.0001981</td>
+</tr>
+<tr>
+<td align="left">THE TRUMP ORGANIZATION, INC.</td>
+<td align="right">0.0001979</td>
+</tr>
+<tr>
+<td align="left">401 NORTH WABASH VENTURE LLC</td>
+<td align="right">0.0001977</td>
+</tr>
+<tr>
+<td align="left">ELAINE CHAO</td>
+<td align="right">0.0001970</td>
+</tr>
+<tr>
+<td align="left">TRUMP HOTELS &amp; CASINO RESORTS, INC.</td>
+<td align="right">0.0001968</td>
+</tr>
+<tr>
+<td align="left">JASON D. GREENBLATT</td>
+<td align="right">0.0001965</td>
+</tr>
+<tr>
+<td align="left">ERIC TRUMP</td>
+<td align="right">0.0001965</td>
+</tr>
+<tr>
+<td align="left">PAUL MANAFORT</td>
+<td align="right">0.0001963</td>
+</tr>
+<tr>
+<td align="left">PANCHSHIL REALTY</td>
+<td align="right">0.0001963</td>
+</tr>
+<tr>
+<td align="left">D B PACE ACQUISITION, LLC</td>
+<td align="right">0.0001961</td>
+</tr>
+<tr>
+<td align="left">REX TILLERSON</td>
+<td align="right">0.0001960</td>
+</tr>
+<tr>
+<td align="left">TRUMP VINEYARD ESTATES LLC</td>
+<td align="right">0.0001960</td>
+</tr>
+<tr>
+<td align="left">TRUMP BRIARCLIFF MANOR DEVELOPMENT LLC</td>
+<td align="right">0.0001960</td>
+</tr>
+<tr>
+<td align="left">TW VENTURE II LLC</td>
+<td align="right">0.0001960</td>
+</tr>
+<tr>
+<td align="left">TRUMP NATIONAL GOLF CLUB WASHINGTON DC LLC</td>
+<td align="right">0.0001960</td>
+</tr>
+<tr>
+<td align="left">TURNBERRY SCOTLAND LLC</td>
+<td align="right">0.0001960</td>
+</tr>
+<tr>
+<td align="left">LFB ACQUISITION LLC</td>
+<td align="right">0.0001960</td>
+</tr>
+<tr>
+<td align="left">TRUMP LAS VEGAS MEMBER LLC</td>
+<td align="right">0.0001960</td>
+</tr>
+<tr>
+<td align="left">TRUMP LAS VEGAS MANAGING MEMBER LLC</td>
+<td align="right">0.0001960</td>
+</tr>
+<tr>
+<td align="left">OPO HOTEL MANAGER LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">THE DONALD J. TRUMP REVOCABLE TRUST</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">DJT HOLDINGS MANAGING MEMBER LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">TRUMP OLD POST OFFICE LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">PINE HILL DEVELOPMENT LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">TRUMP CHICAGO MANAGING MEMBER LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">809 NORTH CANON LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">THC VENTURE I LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">SEVEN SPRINGS LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">TIHT CHICAGO MEMBER ACQUISITION LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">TRUMP WINE MARKS LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">TRUMP SCOTSBOROUGH SQUARE LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">TRUMP CHICAGO MEMBER LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">DT CONNECT II LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">WHITE COURSE LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">4 SHADOW TREE LANE LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">TNGC JUPITER MANAGEMENT LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">TRUMP TOWER COMMERCIAL LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">TRUMP MARKS ASIA LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">TW VENTURE I LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">TRUMP VIRGINIA LOT 5 LLC</td>
+<td align="right">0.0001959</td>
+</tr>
+<tr>
+<td align="left">40 WALL DEVELOPMENT ASSOCIATES LLC</td>
+<td align="right">0.0001958</td>
+</tr>
+<tr>
+<td align="left">40 WALL STREET MEMBER CORP.</td>
+<td align="right">0.0001958</td>
+</tr>
+<tr>
+<td align="left">40 WALL STREET COMMERCIAL LLC</td>
+<td align="right">0.0001958</td>
+</tr>
+<tr>
+<td align="left">401 MEZZ VENTURE LLC</td>
+<td align="right">0.0001958</td>
+</tr>
+<tr>
+<td align="left">THOMAS J. BARRACK JR.</td>
+<td align="right">0.0001957</td>
+</tr>
+<tr>
+<td align="left">MICHAEL POMPEO</td>
+<td align="right">0.0001957</td>
+</tr>
+<tr>
+<td align="left">TRUMP ENDEAVOR 12 MANAGER CORP.</td>
+<td align="right">0.0001957</td>
+</tr>
+<tr>
+<td align="left">TRUMP ENDEAVOR 12 LLC</td>
+<td align="right">0.0001957</td>
+</tr>
+<tr>
+<td align="left">CHICAGO UNIT ACQUISITION LLC</td>
+<td align="right">0.0001956</td>
+</tr>
+<tr>
+<td align="left">TRUMP COMMERCIAL CHICAGO LLC</td>
+<td align="right">0.0001956</td>
+</tr>
+<tr>
+<td align="left">TRUMP PAYROLL CHICAGO LLC</td>
+<td align="right">0.0001956</td>
+</tr>
+<tr>
+<td align="left">KELLYANNE CONWAY</td>
+<td align="right">0.0001955</td>
+</tr>
+<tr>
+<td align="left">RHONA GRAFF RICCIO</td>
+<td align="right">0.0001954</td>
+</tr>
+<tr>
+<td align="left">DAN COATS</td>
+<td align="right">0.0001953</td>
+</tr>
+<tr>
+<td align="left">BEN CARSON</td>
+<td align="right">0.0001953</td>
+</tr>
+<tr>
+<td align="left">OMAROSÉ ONEE MANIGAULT</td>
+<td align="right">0.0001953</td>
+</tr>
+<tr>
+<td align="left">TRUMP SOHO MEMBER LLC</td>
+<td align="right">0.0001952</td>
+</tr>
+<tr>
+<td align="left">THE TRUMP-EQUITABLE FIFTH AVENUE COMPANY</td>
+<td align="right">0.0001952</td>
+</tr>
+<tr>
+<td align="left">BRIAN BAUDREAU</td>
+<td align="right">0.0001951</td>
+</tr>
+<tr>
+<td align="left">TOM PRICE</td>
+<td align="right">0.0001950</td>
+</tr>
+<tr>
+<td align="left">TRUMP TOWER MANAGING MEMBER, INC.</td>
+<td align="right">0.0001950</td>
+</tr>
+<tr>
+<td align="left">TRUMP PRODUCTIONS LLC</td>
+<td align="right">0.0001949</td>
+</tr>
+<tr>
+<td align="left">SERGEI MILLIAN</td>
+<td align="right">0.0001949</td>
+</tr>
+<tr>
+<td align="left">MICK MULVANEY</td>
+<td align="right">0.0001948</td>
+</tr>
+<tr>
+<td align="left">ANDY PUZDER</td>
+<td align="right">0.0001948</td>
+</tr>
+<tr>
+<td align="left">TAG AIR, INC.</td>
+<td align="right">0.0001948</td>
+</tr>
+<tr>
+<td align="left">DON MCGAHN</td>
+<td align="right">0.0001947</td>
+</tr>
+<tr>
+<td align="left">TOM BOSSERT</td>
+<td align="right">0.0001947</td>
+</tr>
+<tr>
+<td align="left">NIKKI HALEY</td>
+<td align="right">0.0001947</td>
+</tr>
+<tr>
+<td align="left">ANDREW BREMBERG</td>
+<td align="right">0.0001947</td>
+</tr>
+<tr>
+<td align="left">MELANIA TRUMP</td>
+<td align="right">0.0001947</td>
+</tr>
+<tr>
+<td align="left">ROGER J. STONE, JR.</td>
+<td align="right">0.0001947</td>
+</tr>
+<tr>
+<td align="left">LINDA MCMAHON</td>
+<td align="right">0.0001947</td>
+</tr>
+<tr>
+<td align="left">RICK PERRY</td>
+<td align="right">0.0001947</td>
+</tr>
+<tr>
+<td align="left">RYAN ZINKE</td>
+<td align="right">0.0001947</td>
+</tr>
+</tbody>
+</table>
+
+<p>What entities are the top 5% connected nodes (in terms of 
+<a href="https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality"><strong>betweenness</strong></a>)?</p>
+
+<p>Betweenness is a measure of how often a node is in the pathway between two other nodes.
+I.e., a node with high betweenness can be a key player in introducing a large group of nodes to another large group of nodes.
+Such a node doesn't necessarily have to have a large number of connections themselves.
+But they could be in a unique position of influence in the network.</p>
+
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">betweenness</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">G</span> %<span class="pl-k">&gt;</span>% <span class="pl-smi">betweenness</span>
+<span class="pl-smi">lim</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">betweenness</span> %<span class="pl-k">&gt;</span>% quantile(<span class="pl-v">probs</span> <span class="pl-k">=</span> <span class="pl-c1">1</span> <span class="pl-k">-</span> <span class="pl-smi">threshold</span>)
+<span class="pl-smi">top</span> <span class="pl-k">&lt;-</span>
+  <span class="pl-k">data.frame</span>(<span class="pl-v">node</span> <span class="pl-k">=</span> V(<span class="pl-smi">G</span>)<span class="pl-k">$</span><span class="pl-smi">id</span>, <span class="pl-v">betweenness</span> <span class="pl-k">=</span> <span class="pl-smi">betweenness</span>) %<span class="pl-k">&gt;</span>% 
+  filter(<span class="pl-smi">betweenness</span> <span class="pl-k">&gt;</span><span class="pl-k">=</span> <span class="pl-smi">lim</span>) %<span class="pl-k">&gt;</span>% 
+  arrange(<span class="pl-k">-</span><span class="pl-smi">betweenness</span>)
+<span class="pl-smi">top</span> %<span class="pl-k">&gt;</span>% <span class="pl-smi">kable</span></pre></div>
+
+<table>
+<thead>
+<tr>
+<th align="left">node</th>
+<th align="right">betweenness</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">DONALD J. TRUMP</td>
+<td align="right">1398943.117</td>
+</tr>
+<tr>
+<td align="left">WILBUR ROSS</td>
+<td align="right">212875.744</td>
+</tr>
+<tr>
+<td align="left">STEVEN MNUCHIN</td>
+<td align="right">206921.375</td>
+</tr>
+<tr>
+<td align="left">IVANKA TRUMP</td>
+<td align="right">177540.412</td>
+</tr>
+<tr>
+<td align="left">JARED KUSHNER</td>
+<td align="right">174586.605</td>
+</tr>
+<tr>
+<td align="left">THRIVE CAPITAL</td>
+<td align="right">119901.080</td>
+</tr>
+<tr>
+<td align="left">GOLDMAN SACHS</td>
+<td align="right">91812.755</td>
+</tr>
+<tr>
+<td align="left">BETSY DEVOS</td>
+<td align="right">85265.333</td>
+</tr>
+<tr>
+<td align="left">TRUMP ORGANIZATION LLC</td>
+<td align="right">82114.593</td>
+</tr>
+<tr>
+<td align="left">CADRE</td>
+<td align="right">67483.810</td>
+</tr>
+<tr>
+<td align="left">KUSHNER COMPANIES</td>
+<td align="right">62228.952</td>
+</tr>
+<tr>
+<td align="left">40 WALL STREET LLC</td>
+<td align="right">61580.025</td>
+</tr>
+<tr>
+<td align="left">ELAINE CHAO</td>
+<td align="right">59043.703</td>
+</tr>
+<tr>
+<td align="left">TRUMP HOTELS &amp; CASINO RESORTS, INC.</td>
+<td align="right">56528.000</td>
+</tr>
+<tr>
+<td align="left">JOSHUA KUSHNER</td>
+<td align="right">45952.925</td>
+</tr>
+<tr>
+<td align="left">DONALD TRUMP JR.</td>
+<td align="right">45720.492</td>
+</tr>
+<tr>
+<td align="left">PAUL MANAFORT</td>
+<td align="right">41306.440</td>
+</tr>
+<tr>
+<td align="left">STEPHEN BANNON</td>
+<td align="right">40682.928</td>
+</tr>
+<tr>
+<td align="left">REX TILLERSON</td>
+<td align="right">33498.601</td>
+</tr>
+<tr>
+<td align="left">THOMAS J. BARRACK JR.</td>
+<td align="right">32776.929</td>
+</tr>
+<tr>
+<td align="left">MICHAEL POMPEO</td>
+<td align="right">32662.000</td>
+</tr>
+<tr>
+<td align="left">GARY COHN</td>
+<td align="right">31392.743</td>
+</tr>
+<tr>
+<td align="left">THE TRUMP ORGANIZATION, INC.</td>
+<td align="right">30639.720</td>
+</tr>
+<tr>
+<td align="left">KELLYANNE CONWAY</td>
+<td align="right">27937.030</td>
+</tr>
+<tr>
+<td align="left">TRUMP TOWER COMMERCIAL LLC</td>
+<td align="right">27328.989</td>
+</tr>
+<tr>
+<td align="left">BEN CARSON</td>
+<td align="right">24129.000</td>
+</tr>
+<tr>
+<td align="left">OMAROSÉ ONEE MANIGAULT</td>
+<td align="right">24127.000</td>
+</tr>
+<tr>
+<td align="left">DAN COATS</td>
+<td align="right">24111.000</td>
+</tr>
+<tr>
+<td align="left">THE ERIC TRUMP FOUNDATION</td>
+<td align="right">22493.358</td>
+</tr>
+<tr>
+<td align="left">TOM PRICE</td>
+<td align="right">18975.000</td>
+</tr>
+<tr>
+<td align="left">DEUTSCHE BANK</td>
+<td align="right">17744.987</td>
+</tr>
+<tr>
+<td align="left">DINA POWELL</td>
+<td align="right">16561.707</td>
+</tr>
+<tr>
+<td align="left">MNC GROUP</td>
+<td align="right">15531.000</td>
+</tr>
+<tr>
+<td align="left">TRUMP PRODUCTIONS LLC</td>
+<td align="right">15514.500</td>
+</tr>
+<tr>
+<td align="left">ERIC TRUMP</td>
+<td align="right">14313.419</td>
+</tr>
+<tr>
+<td align="left">MICK MULVANEY</td>
+<td align="right">13812.000</td>
+</tr>
+<tr>
+<td align="left">ANDY PUZDER</td>
+<td align="right">13812.000</td>
+</tr>
+<tr>
+<td align="left">TRUMP SOHO MEMBER LLC</td>
+<td align="right">13160.646</td>
+</tr>
+<tr>
+<td align="left">DJT HOLDINGS LLC</td>
+<td align="right">12898.365</td>
+</tr>
+<tr>
+<td align="left">COLONY NORTHSTAR, INC.</td>
+<td align="right">12630.856</td>
+</tr>
+<tr>
+<td align="left">MELANIA TRUMP</td>
+<td align="right">12089.000</td>
+</tr>
+<tr>
+<td align="left">NIKKI HALEY</td>
+<td align="right">12089.000</td>
+</tr>
+<tr>
+<td align="left">DON MCGAHN</td>
+<td align="right">12088.000</td>
+</tr>
+<tr>
+<td align="left">TOM BOSSERT</td>
+<td align="right">12088.000</td>
+</tr>
+<tr>
+<td align="left">DRINKS AMERICAS</td>
+<td align="right">12084.000</td>
+</tr>
+<tr>
+<td align="left">LINDA MCMAHON</td>
+<td align="right">10365.000</td>
+</tr>
+<tr>
+<td align="left">RICK PERRY</td>
+<td align="right">10365.000</td>
+</tr>
+<tr>
+<td align="left">RYAN ZINKE</td>
+<td align="right">10365.000</td>
+</tr>
+<tr>
+<td align="left">SUSAN POMPEO</td>
+<td align="right">10350.000</td>
+</tr>
+<tr>
+<td align="left">BAYROCK GROUP</td>
+<td align="right">10268.955</td>
+</tr>
+<tr>
+<td align="left">TITAN ATLAS MANUFACTURING</td>
+<td align="right">10062.777</td>
+</tr>
+<tr>
+<td align="left">ANDREW BREMBERG</td>
+<td align="right">10012.928</td>
+</tr>
+<tr>
+<td align="left">KICKSTARTER</td>
+<td align="right">9845.974</td>
+</tr>
+<tr>
+<td align="left">42FLOORS</td>
+<td align="right">9845.974</td>
+</tr>
+<tr>
+<td align="left">HONEST BUILDINGS</td>
+<td align="right">9845.974</td>
+</tr>
+<tr>
+<td align="left">JIBE</td>
+<td align="right">9845.974</td>
+</tr>
+<tr>
+<td align="left">HOT POTATO</td>
+<td align="right">9845.974</td>
+</tr>
+<tr>
+<td align="left">CHARLES KUSHNER</td>
+<td align="right">9626.008</td>
+</tr>
+<tr>
+<td align="left">TAG AIR, INC.</td>
+<td align="right">9120.907</td>
+</tr>
+<tr>
+<td align="left">TRUMP ENTERTAINMENT RESORTS, INC.</td>
+<td align="right">8668.000</td>
+</tr>
+<tr>
+<td align="left">HEALTHCARE EQUITY PARTNERS LP</td>
+<td align="right">8640.000</td>
+</tr>
+<tr>
+<td align="left">CARLISLE MANAGEMENT</td>
+<td align="right">8640.000</td>
+</tr>
+<tr>
+<td align="left">MICHAEL FLYNN</td>
+<td align="right">8639.000</td>
+</tr>
+<tr>
+<td align="left">DAVIS MANAFORT, INC.</td>
+<td align="right">8634.000</td>
+</tr>
+<tr>
+<td align="left">SERGEI MILLIAN</td>
+<td align="right">8330.149</td>
+</tr>
+<tr>
+<td align="left">BLACK, MANAFORT, STONE AND KELLY</td>
+<td align="right">7562.541</td>
+</tr>
+<tr>
+<td align="left">REINCE PRIEBUS</td>
+<td align="right">7480.504</td>
+</tr>
+<tr>
+<td align="left">SYLVANUS PARTNERS LLC</td>
+<td align="right">6914.000</td>
+</tr>
+<tr>
+<td align="left">JAMES MATTIS</td>
+<td align="right">6914.000</td>
+</tr>
+<tr>
+<td align="left">SCOTT PRUITT</td>
+<td align="right">6914.000</td>
+</tr>
+<tr>
+<td align="left">KATHLEEN TROIA MCFARLAND</td>
+<td align="right">6914.000</td>
+</tr>
+<tr>
+<td align="left">MADISON AVENUE DIAMONDS</td>
+<td align="right">6913.000</td>
+</tr>
+<tr>
+<td align="left">HUDSON WATERFRONT ASSOCIATES I, L.P.</td>
+<td align="right">6913.000</td>
+</tr>
+<tr>
+<td align="left">TRUMP CENTRAL PARK WEST CORP.</td>
+<td align="right">6908.000</td>
+</tr>
+<tr>
+<td align="left">401 NORTH WABASH VENTURE LLC</td>
+<td align="right">6903.808</td>
+</tr>
+<tr>
+<td align="left">VIKTOR KHRAPUNOV</td>
+<td align="right">6564.550</td>
+</tr>
+<tr>
+<td align="left">HUDSON WATERFRONT ASSOCIATES IV, L.P.</td>
+<td align="right">5343.785</td>
+</tr>
+<tr>
+<td align="left">HUDSON WATERFRONT ASSOCIATES V, L.P.</td>
+<td align="right">5343.785</td>
+</tr>
+<tr>
+<td align="left">HUDSON WATERFRONT ASSOCIATES III, L.P.</td>
+<td align="right">5343.785</td>
+</tr>
+<tr>
+<td align="left">RUSSIAN-AMERICAN CHAMBER OF COMMERCE IN THE USA</td>
+<td align="right">5224.923</td>
+</tr>
+<tr>
+<td align="left">SJ PETRO PUMP INVESTMENT LLC</td>
+<td align="right">5187.000</td>
+</tr>
+<tr>
+<td align="left">MIKE PENCE</td>
+<td align="right">5187.000</td>
+</tr>
+<tr>
+<td align="left">MARTIN SORRELL</td>
+<td align="right">5187.000</td>
+</tr>
+<tr>
+<td align="left">KUSHNER PROPERTIES</td>
+<td align="right">5187.000</td>
+</tr>
+<tr>
+<td align="left">BANNON &amp; CO.</td>
+<td align="right">5186.000</td>
+</tr>
+<tr>
+<td align="left">ONE CENTRAL PARK WEST ASSOCIATES</td>
+<td align="right">5186.000</td>
+</tr>
+<tr>
+<td align="left">PERICLES EMERGING MARKET MANAGERS L.P.</td>
+<td align="right">5184.000</td>
+</tr>
+</tbody>
+</table>
+
+<p>Find communities using the edge betweenness algorithm.</p>
+
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">C</span> <span class="pl-k">&lt;-</span> edge.betweenness.community(<span class="pl-smi">G</span>)
+sizes(<span class="pl-smi">C</span>)[order(sizes(<span class="pl-smi">C</span>), <span class="pl-v">decreasing</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>)]</pre></div>
+
+<pre><code>## Community sizes
+##   1  16   3   8  12  14   4   6  13  19  11   2  15  54  10  55  17  18 
+## 501 143 128 115  96  65  51  50  45  45  43  37  37  21  20  17  15  15 
+##  20  62  53  23  49  21  44   7  24  28  38  75   5  34  56  70  64  25 
+##  15  13  12  10  10   9   9   8   8   8   8   8   7   7   7   7   6   5 
+##  29  31  45  47  57  66  72  22  30  42  51  63  67   9  32  35  40  41 
+##   5   5   5   5   5   5   5   4   4   4   4   4   4   3   3   3   3   3 
+##  58  60  61  68  69  71  73  74  77  26  27  33  36  37  39  43  46  48 
+##   3   3   3   3   3   3   3   3   3   2   2   2   2   2   2   2   2   2 
+##  50  52  59  65  76  78 
+##   2   2   2   2   2   2
+</code></pre>
+
+<p>Wow.
+That's one big community there with 501 nodes.
+Let's call this community the <strong>primary community</strong>.</p>
+
+<hr>
+
+<h1>
+<a id="user-content-visualize" class="anchor" href="#visualize" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Visualize</h1>
+
+<p>Produce a zoomable, interactive network plots of</p>
+
+<ul>
+<li>The <strong>entire</strong> network
+
+<ul>
+<li><a href="///C://Users/Ben/Documents/Projects/trumpworld/docs/bignet.html">HTML</a></li>
+</ul>
+</li>
+<li>The <strong>primary community</strong> network
+
+<ul>
+<li><a href="///C://Users/Ben/Documents/Projects/trumpworld/docs/primenet.html">HTML</a></li>
+</ul>
+</li>
+</ul>
+
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">edges</span> <span class="pl-k">&lt;-</span>
+  <span class="pl-smi">G</span> %<span class="pl-k">&gt;</span>% 
+  <span class="pl-smi">as_edgelist</span> %<span class="pl-k">&gt;</span>% 
+  <span class="pl-smi">data.frame</span> %<span class="pl-k">&gt;</span>% 
+  rename(<span class="pl-v">source</span> <span class="pl-k">=</span> <span class="pl-smi">X1</span>,
+         <span class="pl-v">target</span> <span class="pl-k">=</span> <span class="pl-smi">X2</span>) %<span class="pl-k">&gt;</span>% 
+  mutate(<span class="pl-v">source</span> <span class="pl-k">=</span> <span class="pl-smi">source</span> <span class="pl-k">-</span> <span class="pl-c1">1</span>,
+         <span class="pl-v">target</span> <span class="pl-k">=</span> <span class="pl-smi">target</span> <span class="pl-k">-</span> <span class="pl-c1">1</span>,
+         <span class="pl-v">value</span> <span class="pl-k">=</span> <span class="pl-c1">1</span>)
+<span class="pl-smi">vertices</span> <span class="pl-k">&lt;-</span> 
+  <span class="pl-smi">G</span> %<span class="pl-k">&gt;</span>% 
+  vertex_attr(<span class="pl-s"><span class="pl-pds">"</span>id<span class="pl-pds">"</span></span>) %<span class="pl-k">&gt;</span>% 
+  <span class="pl-smi">data.frame</span> %<span class="pl-k">&gt;</span>% 
+  mutate(<span class="pl-v">group</span> <span class="pl-k">=</span> <span class="pl-c1">1</span>)
+names(<span class="pl-smi">vertices</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-s"><span class="pl-pds">"</span>id<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>group<span class="pl-pds">"</span></span>)
+<span class="pl-smi">N</span> <span class="pl-k">&lt;-</span> forceNetwork(<span class="pl-v">Links</span> <span class="pl-k">=</span> <span class="pl-smi">edges</span>, 
+                  <span class="pl-v">Nodes</span> <span class="pl-k">=</span> <span class="pl-smi">vertices</span>,
+                  <span class="pl-v">Source</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>source<span class="pl-pds">"</span></span>, 
+                  <span class="pl-v">Target</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>target<span class="pl-pds">"</span></span>, 
+                  <span class="pl-c"><span class="pl-c">#</span> Value = "value",</span>
+                  <span class="pl-v">NodeID</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>id<span class="pl-pds">"</span></span>, 
+                  <span class="pl-v">Group</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>group<span class="pl-pds">"</span></span>,
+                  <span class="pl-v">opacity</span> <span class="pl-k">=</span> <span class="pl-c1">1</span><span class="pl-k">/</span><span class="pl-c1">2</span>,
+                  <span class="pl-v">fontSize</span> <span class="pl-k">=</span> <span class="pl-c1">16</span>, <span class="pl-v">fontFamily</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>sans-serif<span class="pl-pds">"</span></span>, <span class="pl-v">zoom</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
+saveNetwork(<span class="pl-smi">N</span>, <span class="pl-s"><span class="pl-pds">"</span>../docs/bignet.html<span class="pl-pds">"</span></span>)</pre></div>
+
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">communityID</span> <span class="pl-k">&lt;-</span> names(sizes(<span class="pl-smi">C</span>))[sizes(<span class="pl-smi">C</span>) <span class="pl-k">==</span> max(sizes(<span class="pl-smi">C</span>))]
+<span class="pl-smi">nodesInPrimeNet</span> <span class="pl-k">&lt;-</span> (<span class="pl-c1">1</span><span class="pl-k">:</span>nrow(<span class="pl-smi">df</span><span class="pl-k">$</span><span class="pl-smi">vertices</span>))[<span class="pl-smi">C</span><span class="pl-k">$</span><span class="pl-smi">membership</span> <span class="pl-k">==</span> <span class="pl-smi">communityID</span>]
+<span class="pl-smi">G1</span> <span class="pl-k">&lt;-</span>
+  <span class="pl-smi">G</span> %<span class="pl-k">&gt;</span>% 
+  induced_subgraph(<span class="pl-smi">df</span><span class="pl-k">$</span><span class="pl-smi">vertices</span><span class="pl-k">$</span><span class="pl-smi">node</span>[<span class="pl-smi">nodesInPrimeNet</span>])
+<span class="pl-smi">edges</span> <span class="pl-k">&lt;-</span>
+  <span class="pl-smi">G1</span> %<span class="pl-k">&gt;</span>% 
+  <span class="pl-smi">as_edgelist</span> %<span class="pl-k">&gt;</span>% 
+  <span class="pl-smi">data.frame</span> %<span class="pl-k">&gt;</span>% 
+  rename(<span class="pl-v">source</span> <span class="pl-k">=</span> <span class="pl-smi">X1</span>,
+         <span class="pl-v">target</span> <span class="pl-k">=</span> <span class="pl-smi">X2</span>) %<span class="pl-k">&gt;</span>% 
+  mutate(<span class="pl-v">source</span> <span class="pl-k">=</span> <span class="pl-smi">source</span> <span class="pl-k">-</span> <span class="pl-c1">1</span>,
+         <span class="pl-v">target</span> <span class="pl-k">=</span> <span class="pl-smi">target</span> <span class="pl-k">-</span> <span class="pl-c1">1</span>,
+         <span class="pl-v">value</span> <span class="pl-k">=</span> <span class="pl-c1">1</span>)
+<span class="pl-smi">vertices</span> <span class="pl-k">&lt;-</span> 
+  <span class="pl-smi">G1</span> %<span class="pl-k">&gt;</span>% 
+  vertex_attr(<span class="pl-s"><span class="pl-pds">"</span>id<span class="pl-pds">"</span></span>) %<span class="pl-k">&gt;</span>% 
+  <span class="pl-smi">data.frame</span> %<span class="pl-k">&gt;</span>% 
+  mutate(<span class="pl-v">group</span> <span class="pl-k">=</span> <span class="pl-c1">1</span>)
+names(<span class="pl-smi">vertices</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-s"><span class="pl-pds">"</span>id<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>group<span class="pl-pds">"</span></span>)
+<span class="pl-smi">N</span> <span class="pl-k">&lt;-</span> forceNetwork(<span class="pl-v">Links</span> <span class="pl-k">=</span> <span class="pl-smi">edges</span>, 
+                  <span class="pl-v">Nodes</span> <span class="pl-k">=</span> <span class="pl-smi">vertices</span>,
+                  <span class="pl-v">Source</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>source<span class="pl-pds">"</span></span>, 
+                  <span class="pl-v">Target</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>target<span class="pl-pds">"</span></span>, 
+                  <span class="pl-c"><span class="pl-c">#</span> Value = "value",</span>
+                  <span class="pl-v">NodeID</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>id<span class="pl-pds">"</span></span>, 
+                  <span class="pl-v">Group</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>group<span class="pl-pds">"</span></span>,
+                  <span class="pl-v">opacity</span> <span class="pl-k">=</span> <span class="pl-c1">1</span><span class="pl-k">/</span><span class="pl-c1">2</span>,
+                  <span class="pl-v">fontSize</span> <span class="pl-k">=</span> <span class="pl-c1">16</span>, <span class="pl-v">fontFamily</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>sans-serif<span class="pl-pds">"</span></span>, <span class="pl-v">zoom</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
+saveNetwork(<span class="pl-smi">N</span>, <span class="pl-s"><span class="pl-pds">"</span>../docs/primenet.html<span class="pl-pds">"</span></span>)</pre></div>
+</article></body></html>
