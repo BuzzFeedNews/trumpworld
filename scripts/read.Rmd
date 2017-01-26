@@ -1,16 +1,16 @@
 # Read data
 
-See http://r.prevos.net/trumpworld-analysis/
-
 Read the `.graphml` file.
 
-```{r, eval = FALSE}
+```{r}
 f <- "../data/trumpworld.graphml"
+file.info(f)
 G <- f %>% read_graph(format = "graphml")
 df <- igraph::as_data_frame(G, what = "both")
 df$vertices <-
   df$vertices %>% 
-  mutate(node = 1:nrow(.))
-names(df)
+  mutate(node = 1:nrow(.),
+         label = id) %>% 
+  select(-matches("id"))
 str(df)
 ```
