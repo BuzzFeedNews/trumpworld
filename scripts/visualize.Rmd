@@ -1,13 +1,46 @@
 # Visualize
 
-The interactive network is at [docs/net]().
+Produce a zoomable, interactive network plots of
+
+* The **entire** network
+  * [HTML](bignet.html)
+* The **primary community** network
+  * [HTML](primenet.html)
+
+```{r}
+edges <-
+  G %>% 
+  as_edgelist %>% 
+  data.frame %>% 
+  rename(source = X1,
+         target = X2) %>% 
+  mutate(source = source - 1,
+         target = target - 1,
+         value = 1)
+vertices <- 
+  G %>% 
+  vertex_attr("id") %>% 
+  data.frame %>% 
+  mutate(group = 1)
+names(vertices) <- c("id", "group")
+N <- forceNetwork(Links = edges, 
+                  Nodes = vertices,
+                  Source = "source", 
+                  Target = "target", 
+                  # Value = "value",
+                  NodeID = "id", 
+                  Group = "group",
+                  opacity = 1/2,
+                  fontSize = 16, fontFamily = "sans-serif", zoom = TRUE)
+saveNetwork(N, "../docs/bignet.html")
+```
 
 ```{r}
 communityID <- names(sizes(C))[sizes(C) == max(sizes(C))]
-nodesInBigNet <- (1:nrow(df$vertices))[C$membership == communityID]
+nodesInPrimeNet <- (1:nrow(df$vertices))[C$membership == communityID]
 G1 <-
   G %>% 
-  induced_subgraph(df$vertices$node[nodesInBigNet])
+  induced_subgraph(df$vertices$node[nodesInPrimeNet])
 edges <-
   G1 %>% 
   as_edgelist %>% 
@@ -32,5 +65,5 @@ N <- forceNetwork(Links = edges,
                   Group = "group",
                   opacity = 1/2,
                   fontSize = 16, fontFamily = "sans-serif", zoom = TRUE)
-saveNetwork(N, "../docs/network.html")
+saveNetwork(N, "../docs/primenet.html")
 ```
