@@ -3,7 +3,7 @@
 * BuzzFeed News [article](https://www.buzzfeed.com/johntemplon/help-us-map-trumpworld)
 * BuzzFeed News [github](https://github.com/BuzzFeedNews/trumpworld)
 * My [fork](https://github.com/benjamin-chan/trumpworld)
-* My zoomable, interactive network graph [HTML](bignet.html)
+* My zoomable, interactive network graph [HTML](https://benjamin-chan.github.io/trumpworld/bignet.html)
 
 
 ## Reproducibility
