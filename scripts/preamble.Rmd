@@ -27,6 +27,6 @@ set.seed(as.integer(as.Date("2017-01-20")))
 
 Source user-defined functions.
 
-```{r, eval = FALSE}
+```{r, eval = TRUE}
 sapply(list.files("../lib", full.names = TRUE), source)
 ```
