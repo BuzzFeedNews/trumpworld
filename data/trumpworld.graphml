@@ -36,6 +36,7 @@
     <node id="TRUMP OLD POST OFFICE MEMBER CORP." />
     <node id="SHORE HAVEN SHOPPING CENTER LLC" />
     <node id="UNITED WAY OF AMERICA" />
+    <node id="RONALD C. LIEBERMAN" />
     <node id="HEALTHCARE EQUITY PARTNERS LP" />
     <node id="NEW YORK CITY POLICE FOUNDATION" />
     <node id="DSN LICENSING LLC" />
@@ -51,6 +52,7 @@
     <node id="DUNE ENTERTAINMENT III LLC" />
     <node id="MALC, INC." />
     <node id="ROMA DOWNEY" />
+    <node id="LIFEZETTE" />
     <node id="SENTIENT JETS MEMBER CORP." />
     <node id="NIKKI HALEY" />
     <node id="GOVERNMENT ACCOUNTABILITY INSTITUTE" />
@@ -102,11 +104,13 @@
     <node id="DTW VENTURE MANAGING MEMBER CORP." />
     <node id="WEST PALM OPERATIONS LLC" />
     <node id="CHATTAHOOCHEE NATURE CENTER" />
+    <node id="BRAD PARSCALE" />
     <node id="LARRY GLICK" />
     <node id="DT MARKS JERSEY CITY LLC" />
     <node id="SEGMENT.IO" />
     <node id="MATTHEW CALAMAN" />
     <node id="INTERNATIONAL TEXTILE GROUP" />
+    <node id="SHERI A. DILLON" />
     <node id="PETER THIEL" />
     <node id="NEW YORK STANDARD HOTEL JV" />
     <node id="SHIFT LABS" />
@@ -115,7 +119,6 @@
     <node id="SMG 1999 TRUST" />
     <node id="TNGC DUTCHESS COUNTY MEMBER CORP." />
     <node id="TRUMP NETWORK" />
-    <node id="DT LIDO TECHNICAL SERVICES MANAGER MEMBER CORP." />
     <node id="TRUMP NATIONAL GOLF CLUB - BEDMINSTER" />
     <node id="TRUMP NATIONAL GOLF CLUB - CHARLOTTE" />
     <node id="PAN ROSS LP" />
@@ -123,7 +126,7 @@
     <node id="KEITH SCHILLER" />
     <node id="TRUMP FERRY POINT LLC" />
     <node id="JONATHAN MECHANIC" />
-    <node id="OBSERVER MEDIA GROUP" />
+    <node id="TRUMP BOOKS MANAGER CORP." />
     <node id="ASIA PACIFIC FOUNDATION OF CANADA" />
     <node id="TRUMP TORONTO MANAGEMENT LP" />
     <node id="ILYAS KHRAPUNOV" />
@@ -161,7 +164,7 @@
     <node id="TIGL IRELAND ENTERPRISES LIMITED" />
     <node id="MOBILE PAYROLL CONSTRUCTION LLC" />
     <node id="TRUMP CHICAGO RESIDENTIAL MEMBER CORP." />
-    <node id="NBNK INVESTMENTS PLC" />
+    <node id="ZAPOROZHSTAL" />
     <node id="FOX NEWS" />
     <node id="CHICAGO UNIT ACQUISITION LLC" />
     <node id="UNITED STATES NAVY" />
@@ -210,12 +213,13 @@
     <node id="JULIAN ASSANGE" />
     <node id="THC VENTURE II MANAGING MEMBER CORP." />
     <node id="TNGC PINE HILL LLC" />
+    <node id="JILL GILES" />
     <node id="INDEPENDENT WOMEN'S FORUM" />
     <node id="MRP GROUP" />
     <node id="JESSICA DITTO" />
     <node id="767 MANAGER LLC" />
     <node id="CLASSPASS" />
-    <node id="LI KA-SHING" />
+    <node id="GE ASSET MANAGEMENT" />
     <node id="CHARLES A. MOHLER" />
     <node id="SHAUN CAIN" />
     <node id="FORT MILL AREA COUNCIL, YORK COUNTY REGIONAL CHAMBER OF COMMERCE" />
@@ -249,6 +253,7 @@
     <node id="JO ALLEN PATTON" />
     <node id="THCR/LP CORPORATION" />
     <node id="STM GST TRUST" />
+    <node id="MICHELLE BACHMANN" />
     <node id="TRUMP MARKS CANOUAN CORP." />
     <node id="FABIEN BAUSSART" />
     <node id="RATPAC-DUNE ENTERTAINMENT HOLDINGS LLC" />
@@ -260,7 +265,7 @@
     <node id="THCR MANAGEMENT SERVICES, LLC" />
     <node id="MLQ LLC" />
     <node id="STEVEN MNUCHIN" />
-    <node id="RICARDO HAZOURY" />
+    <node id="NATIONAL MUSEUM OF AMERICAN ART" />
     <node id="THC DEVELOPMENT BRAZIL MANAGING MEMBER CORP." />
     <node id="RUSSELL FLICKER" />
     <node id="NATIONWIDE MUTUAL INSURANCE COMPANY" />
@@ -291,7 +296,7 @@
     <node id="WL ROSS &amp; CO. (INDIA) LLC" />
     <node id="DICK &amp; BETSY DEVOS FAMILY FOUNDATION" />
     <node id="BEDFORD HILLS CORP." />
-    <node id="NATIONAL WWII MUSEUM" />
+    <node id="PIONEER INVESTMENTS" />
     <node id="TRAVEL ENTERPRISES MANAGEMENT INC" />
     <node id="DEUTSCHE BANK" />
     <node id="TRUMP MARKS SOUTH AFRICA LLC" />
@@ -311,6 +316,7 @@
     <node id="GLEP EDUCATION FUND" />
     <node id="DT TOWER GURGAON MANAGING MEMBER CORP." />
     <node id="DT BALI HOTEL MANAGER MEMBER CORP." />
+    <node id="RN CARDIUM OIL INC." />
     <node id="DT MARKS BAKU LLC" />
     <node id="MANHATTAN PARTNERS" />
     <node id="401 NORTH WABASH VENTURE LLC" />
@@ -330,6 +336,7 @@
     <node id="DT TOWER KOLKATA LLC" />
     <node id="TRUMP CANOUAN ESTATE LLC" />
     <node id="ON POINT MONTANA, LLC" />
+    <node id="RICHARD GOETTLICH" />
     <node id="RDV SPORTS, INC" />
     <node id="DON MCGAHN" />
     <node id="HUDSON WESTSIDE ASSOCIATES III, L.P." />
@@ -371,6 +378,7 @@
     <node id="AMERICAN EDUCATION REFORM COUNCIL" />
     <node id="SUN NATIONAL BANK" />
     <node id="BANK OF CYPRUS" />
+    <node id="RENAISSANCE TECHNOLOGIES" />
     <node id="TRUMP REALTY SERVICES, LLC" />
     <node id="TRUMP MARKS SOHO LICENSE CORP." />
     <node id="D B PACE ACQUISITION MEMBER CORP." />
@@ -385,12 +393,12 @@
     <node id="AND CO" />
     <node id="EURASIAN NATURAL RESOURCES CORPORATION" />
     <node id="DT MARKS LIDO LLC" />
-    <node id="THE FRED C. TRUMP DECEMBER 16 1976 TRUST- F/B/O ROBERT S. TRUMP" />
+    <node id="ROSNEFT" />
     <node id="NATIONAL ETHNIC COALITION OF ORGANIZATIONS" />
     <node id="HIGHLANDER HALL, INC." />
     <node id="TRUMP MARKS CANOUAN LLC" />
     <node id="PALM BEACH PRESERVATION FOUNDATION" />
-    <node id="THE SMG 2002 TRUST" />
+    <node id="NATIONAL SECURITY COUNCIL" />
     <node id="JT FOXX" />
     <node id="RIGHT NOW" />
     <node id="BAKERHOSTETLER" />
@@ -415,16 +423,15 @@
     <node id="THE ASIAN PACIFIC AMERICAN ADVISORY COMMITTEE" />
     <node id="ALEX SHNAIDER" />
     <node id="TRUMP PROJECT MANAGEMENT CORP." />
-    <node id="VICTOR HEGGELMAN" />
     <node id="BELLPORT INVESTORS I, LLC" />
     <node id="TRUMP CHICAGO DEVELOPMENT LLC" />
     <node id="1290 AVENUE OF THE AMERICAS, A TENANCY-IN-COMMON" />
     <node id="FLORIDA PROPERTIES MANAGEMENT LLC" />
-    <node id="B PLAZA REALTY CORP." />
+    <node id="FIFTY-SEVEN MANAGEMENT CORP." />
     <node id="HUDSON WATERFRONT ASSOCIATES IV, L.P." />
-    <node id="JASON D. GREENBLATT" />
     <node id="PRUDENTIAL FINANCIAL" />
     <node id="DARA ORBACH" />
+    <node id="LI KA-SHING" />
     <node id="TRUST UNVIO FRED C. TRUMP. F/B/O THE ARANDCHLLDREN OF FRED C. TRUMP" />
     <node id="DT TOWER I LLC" />
     <node id="NATIONAL JOURNALISM CENTER" />
@@ -435,6 +442,7 @@
     <node id="STM PARTNERS LLC" />
     <node id="TRUMP MARKS WAIKIKI CORP." />
     <node id="NEVERWARE" />
+    <node id="EDWARD LAMPERT" />
     <node id="INVESCO PRIVATE CAPITAL INVESTMENTS, INC." />
     <node id="LUCIUS JOSEPH RICCIO" />
     <node id="AUGUST ERNST" />
@@ -453,10 +461,12 @@
     <node id="NATIONAL ASSOCIATION OF WOMEN BUSINESS OWNERS" />
     <node id="MCNA INSURANCE COMPANY" />
     <node id="VIRGINIA ACQUISITIONS LLC" />
-    <node id="JEFF WAGONER" />
+    <node id="THE FRED C. TRUMP DECEMBER 16 1976 TRUST- F/B/O ROBERT S. TRUMP" />
     <node id="DJT AEROSPACE LLC" />
+    <node id="JULIAN DAVID WHEATLAND" />
     <node id="TRUMP MARKS ISTANBUL II LLC" />
     <node id="FCR CORPORATION" />
+    <node id="NEFTEGAZ HOLDING AMERICA LIMITED" />
     <node id="1116 SOUTH MAIN STREET, LLC" />
     <node id="4 SHADOW TREE LANE LLC" />
     <node id="URBAN COMPASS" />
@@ -466,11 +476,12 @@
     <node id="SERYL CHARLES KUSHNER FAMILY FOUNDATION INC" />
     <node id="EXXON MOBIL CORPORATION" />
     <node id="PAYNE THEOLOGICAL SEMINARY" />
+    <node id="JACK WEISSELBERG" />
     <node id="COMPAGNIE EUROPEENNE DE WAGONS S.A.R.L." />
     <node id="INTERNATIONAL STEEL GROUP" />
     <node id="NEW YORK LUXURY PUBLISHING" />
     <node id="TRUMP MARKS PHILADELPHIA CORP." />
-    <node id="WLR RECOVERY FUND IV, L.P." />
+    <node id="ROGER MICHAEL GABB" />
     <node id="DJT OPERATIONS II LLC" />
     <node id="BLACK, MANAFORT, STONE AND KELLY" />
     <node id="ILD B.V." />
@@ -488,6 +499,7 @@
     <node id="TIHH MEMBER LLC" />
     <node id="CIT GROUP, INC." />
     <node id="ERIC TRUMP LAND HOLDINGS LLC" />
+    <node id="THE SMG 2002 TRUST" />
     <node id="U.S. DRYWALL &amp; ACOUSTICAL CORP." />
     <node id="781 FIFTH AVE LLC" />
     <node id="TRUMP LAS VEGAS DEVELOPMENT LLC" />
@@ -501,6 +513,7 @@
     <node id="TRUMP EU MARKS MEMBER CORP." />
     <node id="DT TOWER KOLKATA MANAGING MEMBER CORP." />
     <node id="INVESCO MORTGAGE RECOVERY MASTER FUND, L.P." />
+    <node id="STEVEN ROTH" />
     <node id="HUDSON WATERFRONT ASSOCIATES V, L.P." />
     <node id="THE LEADERSHIP INSTITUTE" />
     <node id="JAMESTOWN FOUNDATION" />
@@ -529,6 +542,7 @@
     <node id="THE STOW COMPANY" />
     <node id="SMITHSONIAN INSTITUTION NATIONAL BOARD" />
     <node id="THC VENTURE III LLC" />
+    <node id="JEFF WAGONER" />
     <node id="TRUMP MARKS MORTGAGE CORP." />
     <node id="HUSSAIN ALI SAJWANI" />
     <node id="TRUMP MARKS ISTANBUL II CORP." />
@@ -553,18 +567,18 @@
     <node id="MICK MULVANEY" />
     <node id="USAA" />
     <node id="FRANK TORRICELLI" />
-    <node id="ROOMORAMA" />
+    <node id="TRUMP MARKS FINE FOODS LLC" />
     <node id="CARIBUSINESS MRE LLC" />
     <node id="TRUMP MANAGEMENT INC." />
     <node id="TRUMP MARKS WESTCHESTER CORP." />
-    <node id="PETER DAVIS" />
+    <node id="BUSY BOYS INVESTMENTS LLC" />
     <node id="WISCONSIN REPUBLICAN PARTY" />
     <node id="MOS CITY GROUP" />
     <node id="EDUARD SHIFRIN" />
     <node id="MNC GROUP" />
     <node id="TRUMP 845 UN MGR CORP." />
     <node id="FORWARD" />
-    <node id="RONALD C. LIEBERMAN" />
+    <node id="INSTACART" />
     <node id="MOBILE PAYROLL CONSTRUCTION MANAGER CORP." />
     <node id="TRUMP MARKS MENSWEAR LLC" />
     <node id="MARK SCHECK" />
@@ -594,6 +608,7 @@
     <node id="MASS CONNECTIONS, INC." />
     <node id="THE NEW MUSEUM" />
     <node id="RHONA GRAFF RICCIO" />
+    <node id="NATIONAL ACADEMY OF ENGINEERING" />
     <node id="TRUMP ATLANTIC CITY HOLDING, INC." />
     <node id="ALLIANCE FOR SCHOOL CHOICE" />
     <node id="COLONY NORTHSTAR, INC." />
@@ -606,6 +621,7 @@
     <node id="NORTHWESTERN MUTUAL IRREVOCABLE LIFE INSURANCE TRUST" />
     <node id="DOGAN GROUP" />
     <node id="TRUMP PAGEANTS LP" />
+    <node id="TRUMP MARKS NEW ROCHELLE CORP." />
     <node id="THC CHINA TECHNICAL SERVICES LLC" />
     <node id="BERNARD R. DIAMOND" />
     <node id="INTERNET WEEK NEW YORK" />
@@ -628,6 +644,7 @@
     <node id="TRUMP TORONTO MEMBER CORP." />
     <node id="EID VENTURE I CORPORATION" />
     <node id="NATIONALIST CONGRESS PARTY (INDIA)" />
+    <node id="CAMBRIDGE ANALYTICA" />
     <node id="INDIA ASSET RECOVERY GP LTD." />
     <node id="DREF II NA FUND LP" />
     <node id="BANK HAPOALIM" />
@@ -641,7 +658,7 @@
     <node id="TISHMAN SPEYER PROPERTIES" />
     <node id="BENCHLING" />
     <node id="YUN CAPITAL" />
-    <node id="CHINA TRADEMARK LLC" />
+    <node id="IOTA GLOBAL" />
     <node id="THC RIO MANAGER LLC" />
     <node id="SIMPLE" />
     <node id="JAMES MATTIS" />
@@ -677,7 +694,6 @@
     <node id="KALPESH MEHTA" />
     <node id="UBS GROUP AG" />
     <node id="WLR RECOVERY ASSOCIATES V DSS AIV GP, LTD." />
-    <node id="STEPHEN BANNON" />
     <node id="BRIAR HALL DEVELOPMENT LLC" />
     <node id="THC JEDDAH HOTEL ADVISOR LLC" />
     <node id="AYDIN DOGAN" />
@@ -694,7 +710,7 @@
     <node id="M FAMILY TRUST" />
     <node id="KINNEK" />
     <node id="NICOLAS SARKOZY" />
-    <node id="FIFTY-SEVEN MANAGEMENT CORP." />
+    <node id="DT MARKS VANCOUVER MANAGER CORP." />
     <node id="HOWARD UNIVERSITY" />
     <node id="DT MARKS BALI LLC" />
     <node id="THE TRUMP-EQUITABLE FIFTH AVENUE COMPANY" />
@@ -739,8 +755,9 @@
     <node id="TRUMP/NEW WORLD PROPERTY MANAGEMENT, LLC" />
     <node id="ALCOA INC." />
     <node id="TRUMP MARKETING LLC" />
-    <node id="NANO-TEX, INC." />
+    <node id="STEPHEN BANNON" />
     <node id="ROBERT SOMMER" />
+    <node id="EDUARD KHUDAYNATOV" />
     <node id="JUICERO" />
     <node id="DT MARKS JUPITER LLC" />
     <node id="THE COMMITTEE ON CAPITAL MARKET REGULATION INC." />
@@ -754,7 +771,7 @@
     <node id="MUSEE DES ARTS DECORATIFS" />
     <node id="ROGER J. STONE, JR." />
     <node id="LEXINGTON MEDICAL CENTER FOUNDATION" />
-    <node id="NATIONAL MUSEUM OF AMERICAN ART" />
+    <node id="FEDERALIST SOCIETY" />
     <node id="MICHELLE CARLSON" />
     <node id="HIGHTOWER" />
     <node id="INDIAN LAND ROTARY" />
@@ -775,7 +792,7 @@
     <node id="MICHIGAN CHAMBER OF COMMERCE" />
     <node id="EXXONMOBIL DEVELOPMENT COMPANY" />
     <node id="IMB HOLDCO LLC" />
-    <node id="DUNE OW LLC" />
+    <node id="ONEWEST BANK, FSB" />
     <node id="FABFITFUN" />
     <node id="RULE OF LAW DEFENSE FUND" />
     <node id="LEXINGTON COUNTY (S.C.) CHAMBER OF COMMERCE" />
@@ -801,7 +818,9 @@
     <node id="CITIMORTGAGE, INC." />
     <node id="ASHER ABEHSERA" />
     <node id="TRUMP OCEAN MANAGER, INC." />
+    <node id="CHINA TRADEMARK LLC" />
     <node id="3126 CORPORATION" />
+    <node id="OBSERVER MEDIA GROUP" />
     <node id="TEVFIK ARIF" />
     <node id="DAN SCAVINO" />
     <node id="TRUMP MORTGAGE SERVICES LLC" />
@@ -835,8 +854,8 @@
     <node id="FONTAINBLEU APARTMENTS LLC" />
     <node id="FORTE CAPITAL ADVISORS" />
     <node id="THE MULVANEY GROUP, LTD." />
-    <node id="NATIONAL PETROLEUM COUNCIL" />
-    <node id="GE ASSET MANAGEMENT" />
+    <node id="ALEXANDER NIX" />
+    <node id="BRACEWELL &amp; GIULIANI, LLP" />
     <node id="BONDSY" />
     <node id="TRUMP MARKS DUBAI LLC" />
     <node id="TRUMP MARKS PUERTO RICO I LLC" />
@@ -850,14 +869,13 @@
     <node id="THOMAS M. SPARICO" />
     <node id="TRUMP CENTRAL PARK WEST CORP." />
     <node id="THE TILLERSON FOUNDATION" />
-    <node id="ONEWEST BANK, FSB" />
     <node id="DT VENTURE I LLC" />
     <node id="40 WALL DEVELOPMENT ASSOCIATES LLC" />
     <node id="KUSHNER COMPANIES" />
     <node id="THC VANCOUVER PAYROLL ULC" />
     <node id="THC QATAR HOTEL MANAGER LLC" />
     <node id="AIG GLOBAL REAL ESTATE INVESTMENT CORP." />
-    <node id="DUNE ENTERTAINMENT HOLDINGS" />
+    <node id="TRUMP 845 LP LLC" />
     <node id="HUDSON WATERFRONT ASSOCIATES III, L.P." />
     <node id="PUBLIUS GROUP" />
     <node id="TRUMP MARKS BAJA LLC" />
@@ -899,6 +917,7 @@
     <node id="GOLF PRODUCTIONS LLC" />
     <node id="TRUMP OLD POST OFFICE LLC" />
     <node id="OPO HOTEL MANAGER MEMBER CORP." />
+    <node id="DUNE OW LLC" />
     <node id="JET.COM" />
     <node id="ROARK CAPITAL GROUP" />
     <node id="LAURENT MORALI" />
@@ -912,7 +931,7 @@
     <node id="TALMER BANCORP" />
     <node id="WLR CHINA ENERGY ASSOCIATES, LTD." />
     <node id="BUILDING A BETTER NEW JERSEY" />
-    <node id="HOUSE BANKING COMMITTEE" />
+    <node id="STEVE TATHAM" />
     <node id="THE HUDSON INSTITUTE" />
     <node id="DT MARKS WORLI MEMBER CORP." />
     <node id="NEW YORK MERCANTILE EXCHANGE" />
@@ -932,6 +951,7 @@
     <node id="ARTPRIZE GRAND RAPIDS" />
     <node id="TRUMP CHICAGO HOTEL MEMBER CORP." />
     <node id="SPICEJET, LTD." />
+    <node id="BEHAVIOURAL DYNAMICS INSTITUTE" />
     <node id="DC CAPITAL PARTNERS" />
     <node id="GREY ROCK ENERGY PARTNERS" />
     <node id="TIHT MEMBER LLC" />
@@ -957,6 +977,7 @@
     <node id="DT APP WARRANT HOLDING LLC" />
     <node id="CREST COURT MEMBER CORP." />
     <node id="SUNOCO LOGISTICS PARTNERS" />
+    <node id="GLENCORE" />
     <node id="TRUMP BOOKS LLC" />
     <node id="TRUMP MARKS LAS VEGAS CORP." />
     <node id="TIGL IRELAND MANAGEMENT LIMITED" />
@@ -980,7 +1001,7 @@
     <node id="KEN KURSON" />
     <node id="CLARENT HOSPITAL CORP." />
     <node id="CHRIS CHRISTIE" />
-    <node id="DT MARKS VANCOUVER MANAGER CORP." />
+    <node id="COOPER INDUSTRIES" />
     <node id="MIKHAIL MORGULIS" />
     <node id="TRUMP MARKS LP" />
     <node id="HYPERPUBLIC" />
@@ -1004,6 +1025,7 @@
     <node id="TRUMP HOTELS &amp; CASINO RESORTS HOLDINGS, L.P." />
     <node id="NEW YORK PRESBYTERIAN HOSPITAL" />
     <node id="BEACON GLOBAL STRATEGIES" />
+    <node id="GREENBERG TRAURIG LLP" />
     <node id="NORTH METRO YMCA" />
     <node id="ROSWELL CLEAN AND BEAUTIFUL" />
     <node id="REDDIT" />
@@ -1022,7 +1044,7 @@
     <node id="AXA" />
     <node id="HELICOPTER AIR SERVICES, INC." />
     <node id="ACADEMI" />
-    <node id="ZAPOROZHSTAL" />
+    <node id="NBNK INVESTMENTS PLC" />
     <node id="THE TRUMP CORPORATION" />
     <node id="TRUMP MARKS NEW ORLEANS CORP." />
     <node id="LEXINGTON SHERIFF'S FOUNDATION" />
@@ -1052,7 +1074,7 @@
     <node id="TRUMP CPS CORP." />
     <node id="RICK DEARBORN" />
     <node id="TRUMP NATIONAL GOLF CLUB WASHINGTON DC LLC" />
-    <node id="TRUMP MARKS NEW ROCHELLE CORP." />
+    <node id="BRACEWELL" />
     <node id="TRUMP PLAZA MEMBER INC." />
     <node id="TRUMP HOTELS &amp; CASINO RESORTS FUNDING, INC." />
     <node id="TIGL COMMON AREA MANAGEMENT HOLDINGS LLC" />
@@ -1100,7 +1122,7 @@
     <node id="EMERGENCY COMMITTEE FOR AMERICAN TRADE" />
     <node id="TRUMP BRAZIL LLC" />
     <node id="BRIAN BULATAO" />
-    <node id="TRUMP 845 LP LLC" />
+    <node id="DUNE ENTERTAINMENT HOLDINGS" />
     <node id="TRUMP RESTAURANTS LLC" />
     <node id="RCB MAIN FLOOR, LLC (D/B/A &quot;RESERVE GR, LLC&quot;)" />
     <node id="DT APP WARRANT HOLDING MANAGING MEMBER CORP." />
@@ -1122,9 +1144,7 @@
     <node id="THE HILL SCHOOL" />
     <node id="RH CEMENT" />
     <node id="MADISON AVENUE DIAMONDS" />
-    <node id="COOPER INDUSTRIES" />
     <node id="CRUMMEY TRUST FBO MPM" />
-    <node id="MIKE PENCE" />
     <node id="HEALTH AND HUMAN SERVICES" />
     <node id="WELLER STREET MISSIONARY BAPTIST CHURCH" />
     <node id="GIFTLY" />
@@ -1199,6 +1219,7 @@
     <node id="GALBREATH COLUMBUS CIRCLE DEVELOPMENT ASSOCIATES, LP" />
     <node id="ABSOLUTE RECOVERY CAPITAL PARTNERS LLC" />
     <node id="EAST END INVESTORS LLC" />
+    <node id="STARRETT CITY ASSOCIATES, L.P." />
     <node id="THC SHENZHEN HOTEL MANAGER MEMBER CORP." />
     <node id="TRUMP KOREAN PROJECTS LLC" />
     <node id="SWISS DEVELOPMENT GROUP" />
@@ -1232,7 +1253,7 @@
     <node id="FEDERAL EMERGENCY MANAGEMENT AGENCY" />
     <node id="TRUMP IDENTITY MEMBER CORP." />
     <node id="JK2 WESTMINSTER LLC" />
-    <node id="TRUMP MARKS BATUMI MANAGING MEMBER CORP." />
+    <node id="ALL CHILDREN MATTER PAC" />
     <node id="REINCE PRIEBUS" />
     <node id="SHANNON MCGAHN" />
     <node id="PAYDEN &amp; RYGEL" />
@@ -1256,6 +1277,7 @@
     <node id="BOB DOLE" />
     <node id="MARK PASQUERELLA" />
     <node id="MIDNIGHTMAN HOLDINGS LLC" />
+    <node id="NATIONAL WWII MUSEUM" />
     <node id="TRUMP MARKS LAS VEGAS LLC" />
     <node id="INDITEX" />
     <node id="DOLE FOOD COMPANY" />
@@ -1269,6 +1291,8 @@
     <node id="PETER G. KELLY" />
     <node id="TRUMP WINE MARKS LLC" />
     <node id="WPP" />
+    <node id="NATIONAL PETROLEUM COUNCIL" />
+    <node id="SCL GROUP" />
     <node id="TRUMP CHICAGO RESIDENTIAL MANAGER LLC" />
     <node id="KICKSTARTER" />
     <node id="DT BALI TECHNICAL SERVICES MANAGER MEMBER CORP." />
@@ -1276,16 +1300,18 @@
     <node id="XAVIER DEU" />
     <node id="TIHT COMMERCIAL LLC" />
     <node id="YALE UNIVERSITY SCHOOL OF MANAGEMENT" />
+    <node id="NIGEL OAKES" />
     <node id="MEHMET ALI YALCINDAG" />
-    <node id="TRUMP MARKS SUNNY ISLES I LLC" />
+    <node id="OCEAN DEVELOPMENT SERVICES LLC" />
     <node id="TRUMP PALACE/PARC LLC" />
     <node id="DAVID HAMAMOTO" />
     <node id="TRUMP PRODUCTION MANAGING MEMBER INC" />
+    <node id="FINANCIAL FREEDOM" />
     <node id="TRUMP MARKS HOLDINGS, L.P." />
     <node id="THC BAKU SERVICES LLC" />
     <node id="ALL CHILDREN MATTER, INC." />
     <node id="TRUMP AC CASINO MARKS LLC" />
-    <node id="TRUMP BOOKS MANAGER CORP." />
+    <node id="DAVID HOROWITZ" />
     <node id="THE MPM 2006 TRUST" />
     <node id="THE VANGUARD GROUP, INC." />
     <node id="OSCAR HEALTH AGENCY INC." />
@@ -1328,7 +1354,9 @@
     <node id="THAYER AEROSPACE AND PRIVATE SECURITY" />
     <node id="LINDA MCMAHON" />
     <node id="TRUMP INTERNATIONAL HOTEL AND TOWER CONDOMINIUM" />
+    <node id="TRUMP MARKS FT. LAUDERDALE MEMBER CORP." />
     <node id="MICHAEL BEST &amp; FRIEDRICH LLP" />
+    <node id="GARRETT MURCH" />
     <node id="EURASIAN RESOURCES GROUP" />
     <node id="ROSWELL ROTARY CLUB" />
     <node id="THE NFL 2015 TRUST" />
@@ -1352,7 +1380,7 @@
     <node id="KENNETH W. O'KEEFE" />
     <node id="CONTINENTAL AIRLINES, INC." />
     <node id="FOURCADE LLC" />
-    <node id="TRUMP MARKS FINE FOODS LLC" />
+    <node id="ROOMORAMA" />
     <node id="TRUMP LAUDERDALE DEVELOPMENT LLC" />
     <node id="INTERNATIONAL CLUB NUMBER ONE" />
     <node id="BANKUNITED" />
@@ -1369,6 +1397,7 @@
     <node id="WLR/GS (INDIA) LIMITED" />
     <node id="TRUMP TAJ MAHAL INC." />
     <node id="DUNE ENTERTAINMENT PARTNERS LLC" />
+    <node id="LEFRAK ORGANIZATION, INC." />
     <node id="MERRILL LYNCH HOME LOANS" />
     <node id="HWA 555 OWNERS, LLC" />
     <node id="VOX FUTURI" />
@@ -1396,8 +1425,8 @@
     <node id="WLR-SC FINANCING CONDUIT LLC" />
     <node id="TRUMP VINEYARD ESTATES MANAGER CORP." />
     <node id="DWOLLA" />
-    <node id="KUSHNER PROPERTIES" />
-    <node id="NATIONAL SECURITY COUNCIL" />
+    <node id="NEW YORK SOCIETY OF SECURITY ANALYSTS" />
+    <node id="MIKE PENCE" />
     <node id="TRUST U ART 6TH (B) MM" />
     <node id="GUGGENHEIM PARTNERS" />
     <node id="721 33H HOLDINGS LLC" />
@@ -1427,6 +1456,7 @@
     <node id="TRUMP'S CASTLE MANAGEMENT CORP." />
     <node id="OSCAR INSURANCE CORPORATION" />
     <node id="TRUMP ATLANTIC CITY FUNDING III, INC." />
+    <node id="MICHAEL FASCITELLI" />
     <node id="WHITE COURSE LLC" />
     <node id="KATIE WALSH" />
     <node id="MIKE FERGUSON" />
@@ -1451,6 +1481,7 @@
     <node id="BRIARCLIFF CONDOMINIUM APARTMENT BUILDING" />
     <node id="TRUMP MARKS PHILIPPINES LLC" />
     <node id="FORMULA ONE" />
+    <node id="IGOR SECHIN" />
     <node id="TRUMP MARKS GOLF SWING LLC" />
     <node id="UNITED ARTISTS MEDIA GROUP" />
     <node id="THE TRUMP FOLLIES LLC" />
@@ -1459,6 +1490,7 @@
     <node id="INTERNATIONAL AUTOMOTIVE GROUP NORTH AMERICA" />
     <node id="CIT BANK NA" />
     <node id="TRUMP GOLF ACQUISITION LLC" />
+    <node id="RUBY ET VIOLETTE" />
     <node id="MILEWISE" />
     <node id="IACNA INTERNATIONAL, INC." />
     <node id="TW VENTURE II MANAGING MEMBER CORP." />
@@ -1476,15 +1508,16 @@
     <node id="MELANIA TRUMP" />
     <node id="MNC LAND" />
     <node id="HARVARD CLUB OF THE PALM BEACHES" />
+    <node id="GILES-PARSCALE, INC." />
     <node id="HONEST BUILDINGS" />
     <node id="TRUMP BRIARCLIFF MANOR DEVELOPMENT LLC" />
     <node id="UNITED STATES ARMY" />
     <node id="VIKTOR F. YANUKOVYCH" />
     <node id="INSURATEX, LTD." />
     <node id="THE EAST 61 STREET COMPANY, L.P." />
-    <node id="BUSY BOYS INVESTMENTS LLC" />
+    <node id="PETER DAVIS" />
     <node id="PINE HILL DEVELOPMENT MANAGING MEMBER CORP." />
-    <node id="NEW YORK SOCIETY OF SECURITY ANALYSTS" />
+    <node id="KUSHNER PROPERTIES" />
     <node id="TURNBERRY SCOTLAND LLC" />
     <node id="VOYA FINANCIAL" />
     <node id="CHRISTL MAHFOUZ" />
@@ -1516,12 +1549,12 @@
     <node id="DT MARKS RIO MEMBER CORP." />
     <node id="NEW YORK CITY DEPARTMENT OF PARKS AND RECREATION" />
     <node id="WORLD WRESTLING ENTERTAINMENT" />
-    <node id="FEDERALIST SOCIETY" />
     <node id="TRUMP CAROUSEL LLC" />
     <node id="HOWARD RUBENSTEIN" />
+    <node id="WLR RECOVERY FUND IV, L.P." />
     <node id="INVESCO WLR LIMITED" />
     <node id="FRED C. TRUMP, GRAT TRUST- F/B/O ELIZABETH TRUMP GRAU" />
-    <node id="INSTACART" />
+    <node id="DUNE CAPITAL PARTNERS III LLC" />
     <node id="REED S. CORDISH" />
     <node id="TRUMP MARKS SOHO LLC" />
     <node id="MATTHEW CALAMARI" />
@@ -1542,6 +1575,7 @@
     <node id="SARA MARTENS" />
     <node id="LSH BARRA" />
     <node id="WLR MASTER CO-INVESTMENT SLP GP, LTD." />
+    <node id="NANO-TEX, INC." />
     <node id="TAG AIR, INC." />
     <node id="VANESSA TRUMP" />
     <node id="SUSSEX HALL INC." />
@@ -1549,6 +1583,7 @@
     <node id="OAKTREE CAPITAL MANAGEMENT" />
     <node id="DT BALI GOLF MANAGER MEMBER CORP." />
     <node id="TRUMP HOME MARKS MEMBER CORP." />
+    <node id="BRIAN HARRIS" />
     <node id="BLOOMBERG PHILANTHROPIES" />
     <node id="TRUMP MARKS DUBAI CORP." />
     <node id="FRESCA CREDIT LAND CO." />
@@ -1559,6 +1594,8 @@
     <node id="LINDA BEAN" />
     <node id="AMERICAN PETROLEUM INSTITUTE" />
     <node id="RICHARD SCHMIDT" />
+    <node id="QATARI INVESTMENT AUTHORITY" />
+    <node id="DAVID HOROWITZ FREEDOM CENTER" />
     <node id="THE JOHN F. KENNEDY CENTER FOR THE PERFORMING ARTS" />
     <node id="SIX BELOW, LLC" />
     <node id="DT DUBAI GOLF MANAGER MEMBER CORP." />
@@ -1582,6 +1619,7 @@
     <node id="JEREMY BLACKBURN" />
     <node id="WLR CARDINAL MEZZANINE FUND L.P." />
     <node id="HUDSON WATERFRONT ASSOCIATES I, L.P." />
+    <node id="AVRAM LEBOR" />
     <node id="DORYA INTERNATIONAL" />
     <node id="OBSERVER MEDIA" />
     <node id="STEVEN T. MNUCHIN INC." />
@@ -1594,7 +1632,7 @@
     <node id="KENOSHA SYMPHONY ORCHESTRA" />
     <node id="THE LFG 2002 TRUST" />
     <node id="TRUMP ENDEAVOR 12 LLC" />
-    <node id="NATIONAL ACADEMY OF ENGINEERING" />
+    <node id="DT LIDO TECHNICAL SERVICES MANAGER MEMBER CORP." />
     <node id="MULVANEY PROPERTIES" />
     <node id="DANIEL M. MCFADDEN" />
     <node id="ANDRIY ZAIKA" />
@@ -1614,7 +1652,7 @@
     <node id="NETWORK INDIANA" />
     <node id="THE PHILANTHROPY ROUNDTABLE" />
     <node id="DT MARKS PUNE LLC" />
-    <node id="DUNE CAPITAL PARTNERS III LLC" />
+    <node id="JASON D. GREENBLATT" />
     <node id="WELLCOME TRUST" />
     <node id="STEVEN LEVINE" />
     <node id="BRIAN BAUDREAU" />
@@ -1643,6 +1681,7 @@
     <node id="SCOTT WALKER" />
     <node id="GEORGIA ENSEMBLE THEATER" />
     <node id="EURO WAGON LTD." />
+    <node id="MORGAN, LEWIS &amp; BOCKIUS LLP." />
     <node id="BLUE OCEAN RE HOLDINGS LTD" />
     <node id="HMBAP LLC" />
     <node id="42FLOORS" />
@@ -1650,6 +1689,7 @@
     <node id="TRUMP MARKS FT. LAUDERDALE LLC" />
     <node id="TRUMP NATIONAL GOLF CLUB COLTS NECK LLC" />
     <node id="KATHLEEN M. MCSWEENEY" />
+    <node id="RICARDO HAZOURY" />
     <node id="TRUMP NATIONAL GOLF CLUB WASHINGTON DC MEMBER CORP." />
     <node id="ORLANDO MAGIC" />
     <node id="NEUROCORE, LLC" />
@@ -1658,7 +1698,8 @@
     <node id="UNITED SEAMEN SERVICE" />
     <node id="RELATIVITY MEDIA" />
     <node id="TIHH MEMBER CORP." />
-    <node id="TRUMP MARKS FT. LAUDERDALE MEMBER CORP." />
+    <node id="HOUSE BANKING COMMITTEE" />
+    <node id="SAM CLOVIS" />
     <node id="TRUMP MARKS NEW ROCHELLE LLC" />
     <node id="POKER VENTURE LLC" />
     <node id="DOUBLE TAP LLC" />
@@ -1719,10 +1760,10 @@
     <node id="ANNIE VELTRI" />
     <node id="TRUMP 767 MANAGEMENT LLC" />
     <node id="SOHO 3310" />
-    <node id="STORMCHASER PARTNERS LLC" />
+    <node id="B PLAZA REALTY CORP." />
     <node id="TRUMP FERRY POINT MEMBER CORP." />
     <node id="GOLF RECREATION SCOTLAND LIMITED" />
-    <node id="ALL CHILDREN MATTER PAC" />
+    <node id="TRUMP MARKS BATUMI MANAGING MEMBER CORP." />
     <node id="MIKE BASELICE" />
     <node id="WESTMINSTER CITY LIVING" />
     <node id="TRUMP NATIONAL GOLF CLUB - LOS ANGELES" />
@@ -1765,6 +1806,7 @@
     <node id="NAKHEEL LLC" />
     <node id="JAMES H. HEALY" />
     <node id="40 WALL STREET MEMBER CORP." />
+    <node id="MAKE AMERICA NUMBER 1 PAC" />
     <node id="PANCHSHIL REALTY" />
     <node id="THC BARRA HOTELARIA LTDA" />
     <node id="ONSWIPE" />
@@ -1772,7 +1814,7 @@
     <node id="MATTHEW CALAMARI, JR." />
     <node id="DT MARKS DUBAI II MEMBER CORP." />
     <node id="GLOSSIER" />
-    <node id="OCEAN DEVELOPMENT SERVICES LLC" />
+    <node id="TRUMP MARKS SUNNY ISLES I LLC" />
     <node id="AVIATION PAYROLL COMPANY" />
     <node id="PARAMOUNT RPV HOLDINGS MANAGER CORP." />
     <node id="ERIC DANZIGER" />
@@ -1797,7 +1839,7 @@
     <node id="OVERSEAS PRIVATE INVESTMENT CORPORATION" />
     <node id="OLD HICKORY MANOR, LLC" />
     <node id="ALLEN WEISSELBERG" />
-    <node id="PIONEER INVESTMENTS" />
+    <node id="VICTOR HEGGELMAN" />
     <node id="REG TRU EQUITIES, LTD." />
     <node id="INVESCO LTD." />
     <node id="TRUMP 106 CPS LLC" />
@@ -1834,6 +1876,7 @@
     <node id="NITTO WORLD CO. LIMITED" />
     <node id="THE WINDOWS MINISTRY INCORPORATED" />
     <node id="CENTER FOR STRATEGIC AND INTERNATIONAL STUDIES" />
+    <node id="ALEXANDER NOVAK" />
     <node id="SHM INVESTMENTS LLC" />
     <node id="JONES DAY" />
     <node id="ABERDEEN ASSET MANAGEMENT" />
@@ -1867,6 +1910,7 @@
     <node id="CARLISLE MANAGEMENT" />
     <node id="HONOR" />
     <node id="JORGE PEREZ" />
+    <node id="STORMCHASER PARTNERS LLC" />
     <edge source="PORT AUTHORITY OF NEW YORK AND NEW JERSEY" target="CHARLES KUSHNER">
       <data key="d0">Former board member</data>
       <data key="d1">http://www.nytimes.com/2017/01/07/us/politics/jared-kushner-trump-business.html</data>
@@ -2391,6 +2435,14 @@
       <data key="d0">Former president and CEO</data>
       <data key="d1">https://www.commerce.senate.gov/public/_cache/files/e4e680e1-90fe-4a15-a6ae-e25aee036da3/B826198AEC2D70F1523C0C79257A66DF.chao-redacted2.pdf</data>
     </edge>
+    <edge source="RONALD C. LIEBERMAN" target="THE TRUMP ORGANIZATION, INC.">
+      <data key="d0">Executive vice president for management and development</data>
+      <data key="d1">https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html?_r=0 | https://www.linkedin.com/in/ron-lieberman-184ab970</data>
+    </edge>
+    <edge source="RONALD C. LIEBERMAN" target="NEW YORK CITY DEPARTMENT OF PARKS AND RECREATION">
+      <data key="d0">Oversaw concession contracts</data>
+      <data key="d1">https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html?_r=0</data>
+    </edge>
     <edge source="HEALTHCARE EQUITY PARTNERS LP" target="KENNETH W. O'KEEFE">
       <data key="d0">Managing director</data>
       <data key="d1">http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=3481057</data>
@@ -2491,6 +2543,10 @@
       <data key="d0">Married</data>
       <data key="d1">General knowledge</data>
     </edge>
+    <edge source="LIFEZETTE" target="GARRETT MURCH">
+      <data key="d0">Senior editor</data>
+      <data key="d1">https://www.linkedin.com/in/garrett-murch-9800b928</data>
+    </edge>
     <edge source="SENTIENT JETS MEMBER CORP." target="DONALD J. TRUMP">
       <data key="d0">President</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
@@ -2531,9 +2587,17 @@
       <data key="d0">Former board member</data>
       <data key="d1">http://web.archive.org/web/20071219073547/http://www.scstatehouse.net/members/bios/0735227185.html</data>
     </edge>
+    <edge source="GOVERNMENT ACCOUNTABILITY INSTITUTE" target="BREITBART NEWS">
+      <data key="d0">Paid for advertising</data>
+      <data key="d1">https://www.documentcloud.org/documents/3439585-GovernmentAccountabilityInstitute-990-201412.html</data>
+    </edge>
     <edge source="GOVERNMENT ACCOUNTABILITY INSTITUTE" target="STEPHEN BANNON">
       <data key="d0">Co-founder &amp; Executive Chair</data>
       <data key="d1">https://web.archive.org/web/20160802051453/http://www.g-a-i.org/team/</data>
+    </edge>
+    <edge source="GOVERNMENT ACCOUNTABILITY INSTITUTE" target="REBEKAH MERCER">
+      <data key="d0">Director</data>
+      <data key="d1">https://www.documentcloud.org/documents/3439585-GovernmentAccountabilityInstitute-990-201412.html</data>
     </edge>
     <edge source="TRUMP PARK AVENUE LLC" target="TRUMP DELMONICO LLC">
       <data key="d0">Ownership</data>
@@ -2803,6 +2867,18 @@
       <data key="d0">Member</data>
       <data key="d1">http://www.politico.com/arena/bio/rep_tom_price.html</data>
     </edge>
+    <edge source="BRAD PARSCALE" target="GILES-PARSCALE, INC.">
+      <data key="d0">Web director</data>
+      <data key="d1">https://www.parscale.com/about/who-we-are | http://www.bizjournals.com/sanantonio/news/2016/06/14/local-web-design-firm-with-donald-trump.html</data>
+    </edge>
+    <edge source="BRAD PARSCALE" target="ALEXANDER NIX">
+      <data key="d0">Pascale says he hired Nix's company, Cambridge Analytica, to work on the campaign</data>
+      <data key="d1">https://www.washingtonpost.com/politics/trumps-plan-for-a-comeback-includes-building-a-psychographic-profile-of-every-voter/2016/10/27/9064a706-9611-11e6-9b7c-57290af48a49_story.html?utm_term=.ec091285ddc0</data>
+    </edge>
+    <edge source="BRAD PARSCALE" target="DONALD J. TRUMP">
+      <data key="d0">Former digital director for Trump campaign</data>
+      <data key="d1">http://www.politico.com/story/2017/01/new-pro-trump-political-group-readies-for-launch-233263</data>
+    </edge>
     <edge source="LARRY GLICK" target="THE TRUMP ORGANIZATION, INC.">
       <data key="d0">Executive vice president for strategic development</data>
       <data key="d1">https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html | https://www.linkedin.com/in/lawrence-glick-2638653</data>
@@ -2822,6 +2898,14 @@
     <edge source="INTERNATIONAL TEXTILE GROUP" target="WILBUR ROSS">
       <data key="d0">Non-executive chairman</data>
       <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
+    </edge>
+    <edge source="SHERI A. DILLON" target="MORGAN, LEWIS &amp; BOCKIUS LLP.">
+      <data key="d0">Partner</data>
+      <data key="d1">https://www.morganlewis.com/bios/sdillon</data>
+    </edge>
+    <edge source="SHERI A. DILLON" target="DONALD J. TRUMP">
+      <data key="d0">Conflicts of interest lawyer</data>
+      <data key="d1">https://www.nytimes.com/2017/01/11/us/politics/trump-press-conference-transcript.html</data>
     </edge>
     <edge source="NEW YORK STANDARD HOTEL JV" target="STEVEN MNUCHIN">
       <data key="d0">Listed as asset/income on Public Financial Disclosure Report</data>
@@ -2850,14 +2934,6 @@
     <edge source="TRUMP NETWORK" target="DONALD J. TRUMP">
       <data key="d0">Became "the new face of [the] company" in 2009, per the Washington Post</data>
       <data key="d1">https://www.washingtonpost.com/news/wonk/wp/2016/03/23/the-trump-network-sought-to-make-people-rich-but-left-behind-disappointment/?utm_term=.8e197140d0be</data>
-    </edge>
-    <edge source="DT LIDO TECHNICAL SERVICES MANAGER MEMBER CORP." target="DT LIDO TECHNICAL SERVICES MANAGER LLC">
-      <data key="d0">Ownership</data>
-      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
-    </edge>
-    <edge source="DT LIDO TECHNICAL SERVICES MANAGER MEMBER CORP." target="DONALD J. TRUMP">
-      <data key="d0">President</data>
-      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
     <edge source="TRUMP NATIONAL GOLF CLUB - BEDMINSTER" target="LFB ACQUISITION LLC">
       <data key="d0">Ownership</data>
@@ -2895,13 +2971,13 @@
       <data key="d0">"a real-estate attorney who was involved in [Kushner's] retail-space negotiations," per New York Magazine</data>
       <data key="d1">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
     </edge>
-    <edge source="OBSERVER MEDIA GROUP" target="ROBERT SOMMER">
+    <edge source="TRUMP BOOKS MANAGER CORP." target="DONALD J. TRUMP">
       <data key="d0">President</data>
-      <data key="d1">http://www.adweek.com/fishbowlny/jared-kushner-names-no-2/5639</data>
+      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
-    <edge source="OBSERVER MEDIA GROUP" target="JARED KUSHNER">
-      <data key="d0">Former publisher</data>
-      <data key="d1">http://www.businessinsider.com/jared-kushner-steps-down-as-publisher-of-the-observer-2017-1</data>
+    <edge source="TRUMP BOOKS MANAGER CORP." target="TRUMP BOOKS LLC">
+      <data key="d0">Ownership</data>
+      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
     <edge source="ASIA PACIFIC FOUNDATION OF CANADA" target="ELAINE CHAO">
       <data key="d0">John H. McArthur Distinguished Fellowship, honorary advisory board member</data>
@@ -2930,6 +3006,10 @@
     <edge source="THE MITRE CORPORATION" target="ANDREW BREMBERG">
       <data key="d0">Former employee</data>
       <data key="d1">https://www.linkedin.com/in/andrew-bremberg-7170938</data>
+    </edge>
+    <edge source="MARYANNE TRUMP BARRY" target="KEVIN MARINO">
+      <data key="d0">Marino served as Barry's law clerk</data>
+      <data key="d1">http://www.khmarino.com/attorney_bio_marino.html</data>
     </edge>
     <edge source="MARYANNE TRUMP BARRY" target="DONALD J. TRUMP">
       <data key="d0">Siblings</data>
@@ -2995,6 +3075,10 @@
       <data key="d0">President</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
+    <edge source="DONALD J. TRUMP" target="SAM CLOVIS">
+      <data key="d0">Former senior policy advisor on campaign</data>
+      <data key="d1">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+    </edge>
     <edge source="DONALD J. TRUMP" target="TRUMP MARKS PHILADELPHIA CORP.">
       <data key="d0">President</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
@@ -3006,6 +3090,10 @@
     <edge source="DONALD J. TRUMP" target="DJT OPERATIONS II LLC">
       <data key="d0">President</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    </edge>
+    <edge source="DONALD J. TRUMP" target="MICHAEL FASCITELLI">
+      <data key="d0">Fascitelli is CEO of Vornado Realty Trust and donated the maximum to Trump's campaign</data>
+      <data key="d1">https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company</data>
     </edge>
     <edge source="DONALD J. TRUMP" target="TRUMP PROPERTIES LLC">
       <data key="d0">President</data>
@@ -3154,6 +3242,10 @@
     <edge source="DONALD J. TRUMP" target="TTTT VENTURE MEMBER CORP.">
       <data key="d0">President</data>
       <data key="d1">Implied from 2016 FEC Disclosure</data>
+    </edge>
+    <edge source="DONALD J. TRUMP" target="STEVEN ROTH">
+      <data key="d0">Former campaign advisor, going to co-head infrastructure council</data>
+      <data key="d1">http://www.huffingtonpost.com/entry/donald-trump-steven-roth-meeeting_us_587917f8e4b09281d0eaa28e | https://www.wsj.com/articles/donald-trump-asks-richard-lefrak-steven-roth-to-monitor-infrastructure-plans-costs-1484591989 | https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company</data>
     </edge>
     <edge source="DONALD J. TRUMP" target="DT ENDEAVOR I MEMBER CORP.">
       <data key="d0">President</data>
@@ -3967,6 +4059,10 @@
       <data key="d0">President</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
+    <edge source="DONALD J. TRUMP" target="DT LIDO TECHNICAL SERVICES MANAGER MEMBER CORP.">
+      <data key="d0">President</data>
+      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    </edge>
     <edge source="DONALD J. TRUMP" target="THE FRED C. TRUMP DECEMBER 16, 1976 TRUST- F/B/O DONALD J. TRUMP">
       <data key="d0">Trustee</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
@@ -4096,8 +4192,8 @@
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
     <edge source="DONALD J. TRUMP" target="RICHARD LEFRAK">
-      <data key="d0">"one of Trump's few close friends in New York real estate," per New York Magazine</data>
-      <data key="d1">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+      <data key="d0">"one of Trump's few close friends in New York real estate," per New York Magazine and co-head of his new infrastructure council according to the Wall Street Journal</data>
+      <data key="d1">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html | https://www.wsj.com/articles/donald-trump-asks-richard-lefrak-steven-roth-to-monitor-infrastructure-plans-costs-1484591989</data>
     </edge>
     <edge source="DONALD J. TRUMP" target="EXCEL VENTURE I LLC">
       <data key="d0">President</data>
@@ -4181,6 +4277,10 @@
     </edge>
     <edge source="DONALD J. TRUMP" target="IDENTITY THEFT PRODUCTIONS MEMBER CORP.">
       <data key="d0">President</data>
+      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    </edge>
+    <edge source="DONALD J. TRUMP" target="STARRETT CITY ASSOCIATES, L.P.">
+      <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
     <edge source="DONALD J. TRUMP" target="THC SHENZHEN HOTEL MANAGER MEMBER CORP.">
@@ -4627,10 +4727,6 @@
       <data key="d0">President</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
-    <edge source="DONALD J. TRUMP" target="TRUMP BOOKS MANAGER CORP.">
-      <data key="d0">President</data>
-      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
-    </edge>
     <edge source="DONALD J. TRUMP" target="TRUMP MARKS WESTCHESTER LLC">
       <data key="d0">President</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
@@ -4790,6 +4886,10 @@
     <edge source="DONALD J. TRUMP" target="SHORE HAVEN APT#1, INC.">
       <data key="d0">President</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    </edge>
+    <edge source="DONALD J. TRUMP" target="REX TILLERSON">
+      <data key="d0">Nominee for Secretary of State</data>
+      <data key="d1">General knowledge</data>
     </edge>
     <edge source="DONALD J. TRUMP" target="TRUMP EDUCATION ULC">
       <data key="d0">Chairman</data>
@@ -5251,9 +5351,9 @@
       <data key="d0">Nominee for Secretary of Commerce</data>
       <data key="d1">General knowledge</data>
     </edge>
-    <edge source="DONALD J. TRUMP" target="REX TILLERSON">
-      <data key="d0">Nominee for Secretary of State</data>
-      <data key="d1">General knowledge</data>
+    <edge source="DONALD J. TRUMP" target="ALEXANDER NIX">
+      <data key="d0">Worked on presidential campaign. May continue work for the administration.</data>
+      <data key="d1">https://www.theguardian.com/us-news/2016/nov/23/donald-trump-cambridge-analytica-steve-bannon</data>
     </edge>
     <edge source="DONALD J. TRUMP" target="GARY COHN">
       <data key="d0">Director United States National Economic Council</data>
@@ -5475,9 +5575,9 @@
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
-    <edge source="NBNK INVESTMENTS PLC" target="WILBUR ROSS">
-      <data key="d0">Director/Chairman</data>
-      <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
+    <edge source="ZAPOROZHSTAL" target="MIDLAND RESOURCES HOLDING INC.">
+      <data key="d0">Ownership</data>
+      <data key="d1">http://www.theglobeandmail.com/report-on-business/rob-magazine/the-invisible-man/article18228210/?page=all</data>
     </edge>
     <edge source="FOX NEWS" target="KATHLEEN TROIA MCFARLAND">
       <data key="d0">Former commentator and host</data>
@@ -5531,9 +5631,17 @@
       <data key="d0">Privatization advisor when Giuliani was mayor</data>
       <data key="d1">http://www.salon.com/2016/11/21/wilbur-ross-jr-rumored-to-be-donald-trumps-choice-for-commerce-secretary-owned-a-mine-where-12-miners-died-in-2006_partner/</data>
     </edge>
+    <edge source="RUDY GIULIANI" target="GREENBERG TRAURIG LLP">
+      <data key="d0">Chair, Cybersecurity, Privacy and Crisis Management Practice; Senior Advisor to the Executive Chairman</data>
+      <data key="d1">http://www.gtlaw.com/People/Rudolph-W-Giuliani</data>
+    </edge>
     <edge source="RUDY GIULIANI" target="KEN KURSON">
       <data key="d0">Worked on 2008 presidential campaign</data>
       <data key="d1">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+    </edge>
+    <edge source="RUDY GIULIANI" target="BRACEWELL &amp; GIULIANI, LLP">
+      <data key="d0">Former partner</data>
+      <data key="d1">http://blogs.wsj.com/law/2016/01/19/bracewell-giuliani-is-losing-giuliani/</data>
     </edge>
     <edge source="EXXON VENTURES (CIS) INC." target="REX TILLERSON">
       <data key="d0">Former vice president</data>
@@ -5567,9 +5675,17 @@
       <data key="d0">Trustee</data>
       <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
     </edge>
+    <edge source="VORNADO REALTY TRUST" target="STEVEN ROTH">
+      <data key="d0">Chairman and CEO</data>
+      <data key="d1">http://www.vno.com/governance/executive-management</data>
+    </edge>
     <edge source="VORNADO REALTY TRUST" target="KUSHNER COMPANIES">
       <data key="d0">Investor</data>
       <data key="d1">http://www.nytimes.com/2017/01/07/us/politics/jared-kushner-trump-business.html</data>
+    </edge>
+    <edge source="VORNADO REALTY TRUST" target="MICHAEL FASCITELLI">
+      <data key="d0">Former CEO</data>
+      <data key="d1">https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company</data>
     </edge>
     <edge source="ANDREW JOBLON" target="THE ERIC TRUMP FOUNDATION">
       <data key="d0">Vice chairman and treasurer</data>
@@ -5687,6 +5803,10 @@
       <data key="d0">NKA/FKA</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
+    <edge source="JILL GILES" target="GILES-PARSCALE, INC.">
+      <data key="d0">Creative director</data>
+      <data key="d1">https://www.parscale.com/about/who-we-are | http://www.bizjournals.com/sanantonio/news/2016/06/14/local-web-design-firm-with-donald-trump.html</data>
+    </edge>
     <edge source="INDEPENDENT WOMEN'S FORUM" target="KELLYANNE CONWAY">
       <data key="d0">Board member</data>
       <data key="d1">http://www.iwf.org/about</data>
@@ -5695,9 +5815,9 @@
       <data key="d0">Licenses "Trump" name for Trump Towers Rio</data>
       <data key="d1">http://www.politico.com/story/2016/10/trump-towers-rio-brazil-criminal-probe-230484</data>
     </edge>
-    <edge source="LI KA-SHING" target="OSCAR INSURANCE CORPORATION">
-      <data key="d0">Investor</data>
-      <data key="d1">http://www.nytimes.com/2017/01/07/us/politics/jared-kushner-trump-business.html</data>
+    <edge source="GE ASSET MANAGEMENT" target="40 WALL STREET LLC">
+      <data key="d0">Owns collateralized debt</data>
+      <data key="d1">Morningstar analysis</data>
     </edge>
     <edge source="CHARLES A. MOHLER" target="INDIANOLA MANAGEMENT REALTY LLC">
       <data key="d0">Manager</data>
@@ -5767,6 +5887,10 @@
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
+    <edge source="DT LIDO TECHNICAL SERVICES MANAGER LLC" target="DT LIDO TECHNICAL SERVICES MANAGER MEMBER CORP.">
+      <data key="d0">Ownership</data>
+      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    </edge>
     <edge source="THE MR AND JMB 2003 LIFE INSURANCE TRUST" target="STEVEN MNUCHIN">
       <data key="d0">Trustee</data>
       <data key="d1">https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/B003D12FCD5F4C3F852580A5004FF6A4/$FILE/Mnuchin,%20Steven%20T.%20final278.pdf</data>
@@ -5814,6 +5938,10 @@
     <edge source="STM GST TRUST" target="STEVEN MNUCHIN">
       <data key="d0">Trustee</data>
       <data key="d1">https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/B003D12FCD5F4C3F852580A5004FF6A4/$FILE/Mnuchin,%20Steven%20T.%20final278.pdf</data>
+    </edge>
+    <edge source="MICHELLE BACHMANN" target="STEPHEN MILLER">
+      <data key="d0">Worked for her</data>
+      <data key="d1">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
     </edge>
     <edge source="TRUMP MARKS CANOUAN CORP." target="TRUMP MARKS CANOUAN LLC">
       <data key="d0">Ownership</data>
@@ -5950,6 +6078,10 @@
     <edge source="STEVEN MNUCHIN" target="STM PARTNERS LLC">
       <data key="d0">Managing member</data>
       <data key="d1">https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/B003D12FCD5F4C3F852580A5004FF6A4/$FILE/Mnuchin,%20Steven%20T.%20final278.pdf</data>
+    </edge>
+    <edge source="STEVEN MNUCHIN" target="EDWARD LAMPERT">
+      <data key="d0">Former college roommates; Mnuchin has a position in an entity connected to Lampert</data>
+      <data key="d1">https://www.washingtonpost.com/news/wonk/wp/2017/01/19/treasury-nominee-initially-omitted-more-than-100-million-from-disclosures-democratic-memo-shows/?postshare=3221484835948504&amp;tid=ss_tw&amp;utm_term=.e7b4eb5ed0a8</data>
     </edge>
     <edge source="STEVEN MNUCHIN" target="DUNE REAL ESTATE PARALLEL FUND II LP">
       <data key="d0">Listed as asset/income on Public Financial Disclosure Report</data>
@@ -6251,9 +6383,9 @@
       <data key="d0">Trustee</data>
       <data key="d1">https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/B003D12FCD5F4C3F852580A5004FF6A4/$FILE/Mnuchin,%20Steven%20T.%20final278.pdf</data>
     </edge>
-    <edge source="RICARDO HAZOURY" target="THE TRUMP ORGANIZATION, INC.">
-      <data key="d0">Business partner</data>
-      <data key="d1">https://www.washingtonpost.com/classic-apps/high-rollers-risk-takers-and-rule-benders-donald-trumps-unorthodox-roster-of-overseas-business-partners/2017/01/13/73797ab6-cc37-11e6-b8a2-8c2a61b0436f_story.html?utm_term=.c2f475ce19c6</data>
+    <edge source="NATIONAL MUSEUM OF AMERICAN ART" target="WILBUR ROSS">
+      <data key="d0">Chairman</data>
+      <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
     </edge>
     <edge source="THC DEVELOPMENT BRAZIL MANAGING MEMBER CORP." target="THC DEVELOPMENT BRAZIL LLC">
       <data key="d0">Ownership</data>
@@ -6383,9 +6515,9 @@
       <data key="d0">Co-founder</data>
       <data key="d1">http://static.politico.com/4b/0c/fce86acb43879694090fd430d601/senate-help-committee-paperwork-for-betsy-devos.pdf</data>
     </edge>
-    <edge source="NATIONAL WWII MUSEUM" target="ELAINE CHAO">
-      <data key="d0">Former Advisory Board member</data>
-      <data key="d1">https://www.commerce.senate.gov/public/_cache/files/e4e680e1-90fe-4a15-a6ae-e25aee036da3/B826198AEC2D70F1523C0C79257A66DF.chao-redacted2.pdf</data>
+    <edge source="PIONEER INVESTMENTS" target="TRUMP TOWER COMMERCIAL LLC">
+      <data key="d0">Owns collateralized debt</data>
+      <data key="d1">Morningstar analysis</data>
     </edge>
     <edge source="TRAVEL ENTERPRISES MANAGEMENT INC" target="TOYS AT TRUMP, INC.">
       <data key="d0">NKA/FKA</data>
@@ -6422,6 +6554,10 @@
     <edge source="MAR-A-LAGO CLUB, INC" target="MAR-A-LAGO CLUB, LLC">
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    </edge>
+    <edge source="RICHARD LEFRAK" target="LEFRAK ORGANIZATION, INC.">
+      <data key="d0">Chairman and CEO</data>
+      <data key="d1">http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=184021</data>
     </edge>
     <edge source="INVESCO" target="KUSHNER PROPERTIES">
       <data key="d0">Real-estate partner</data>
@@ -6470,6 +6606,10 @@
     <edge source="DT BALI HOTEL MANAGER MEMBER CORP." target="DT BALI HOTEL MANAGER LLC">
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    </edge>
+    <edge source="RN CARDIUM OIL INC." target="ROSNEFT">
+      <data key="d0">Subsidiary</data>
+      <data key="d1">https://rosneft.com/press/releases/item/114473/</data>
     </edge>
     <edge source="DT MARKS BAKU LLC" target="DT MARKS BAKU MANAGING MEMBER CORP.">
       <data key="d0">Ownership</data>
@@ -6542,6 +6682,10 @@
     <edge source="ON POINT MONTANA, LLC" target="RYAN ZINKE">
       <data key="d0">Ownership stake</data>
       <data key="d1">http://missoulian.com/news/local/u-s-house-candidate-zinke-amasses-more-wealth-than-lewis/article_be9ceeda-0d4c-11e4-9938-0019bb2963f4.html</data>
+    </edge>
+    <edge source="RICHARD GOETTLICH" target="JARED KUSHNER">
+      <data key="d0">Kushner hired him for his real estate company</data>
+      <data key="d1">https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company</data>
     </edge>
     <edge source="RDV SPORTS, INC" target="BETSY DEVOS">
       <data key="d0">Former director</data>
@@ -6739,6 +6883,10 @@
       <data key="d0">Vice chairman</data>
       <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
     </edge>
+    <edge source="RENAISSANCE TECHNOLOGIES" target="ROBERT MERCER">
+      <data key="d0">Co-chief executive</data>
+      <data key="d1">http://www.forbes.com/sites/nathanvardi/2017/01/24/trumps-big-hedge-fund-backer-had-a-huge-year-with-biggest-fund-up-21-5-in-2016/#5649f38e1701</data>
+    </edge>
     <edge source="TRUMP REALTY SERVICES, LLC" target="TRUMP MORTGAGE SERVICES LLC">
       <data key="d0">NKA/FKA</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
@@ -6807,6 +6955,30 @@
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
+    <edge source="ROSNEFT" target="GLENCORE">
+      <data key="d0">Ownership</data>
+      <data key="d1">http://www.reuters.com/article/us-russia-rosneft-privatisation-insight-idUSKBN1582OH</data>
+    </edge>
+    <edge source="ROSNEFT" target="QATARI INVESTMENT AUTHORITY">
+      <data key="d0">Ownership</data>
+      <data key="d1">http://www.reuters.com/article/us-russia-rosneft-privatisation-insight-idUSKBN1582OH</data>
+    </edge>
+    <edge source="ROSNEFT" target="IGOR SECHIN">
+      <data key="d0">CEO</data>
+      <data key="d1">https://www.rosneft.com/governance/board/</data>
+    </edge>
+    <edge source="ROSNEFT" target="NEFTEGAZ HOLDING AMERICA LIMITED">
+      <data key="d0">Subsidiary</data>
+      <data key="d1">https://rosneft.com/press/releases/item/114473/</data>
+    </edge>
+    <edge source="ROSNEFT" target="EXXON MOBIL CORPORATION">
+      <data key="d0">Signed strategic cooperation agreement</data>
+      <data key="d1">https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71 | https://rosneft.com/press/releases/item/114473/</data>
+    </edge>
+    <edge source="ROSNEFT" target="EDUARD KHUDAYNATOV">
+      <data key="d0">Former president</data>
+      <data key="d1">https://rosneft.com/press/releases/item/114473/</data>
+    </edge>
     <edge source="NATIONAL ETHNIC COALITION OF ORGANIZATIONS" target="ELAINE CHAO">
       <data key="d0">Honorary advisory board member</data>
       <data key="d1">https://www.commerce.senate.gov/public/_cache/files/e4e680e1-90fe-4a15-a6ae-e25aee036da3/B826198AEC2D70F1523C0C79257A66DF.chao-redacted2.pdf</data>
@@ -6814,6 +6986,10 @@
     <edge source="PALM BEACH PRESERVATION FOUNDATION" target="WILBUR ROSS">
       <data key="d0">Trustee</data>
       <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
+    </edge>
+    <edge source="NATIONAL SECURITY COUNCIL" target="KATHLEEN TROIA MCFARLAND">
+      <data key="d0">Former staff member</data>
+      <data key="d1">https://www.theatlantic.com/international/archive/2016/12/mcfarland-trump-reagan-weinberger-flynn-washington-fox/510323/</data>
     </edge>
     <edge source="JT FOXX" target="THE ERIC TRUMP FOUNDATION">
       <data key="d0">Director</data>
@@ -6915,10 +7091,6 @@
       <data key="d0">Co-founder and chairman</data>
       <data key="d1">http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=20412545</data>
     </edge>
-    <edge source="VICTOR HEGGELMAN" target="CARLISLE MANAGEMENT">
-      <data key="d0">CFO</data>
-      <data key="d1">http://cmclux.com/team/</data>
-    </edge>
     <edge source="1290 AVENUE OF THE AMERICAS, A TENANCY-IN-COMMON" target="HWA 1290 IV LLC">
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
@@ -6931,6 +7103,10 @@
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
+    <edge source="FIFTY-SEVEN MANAGEMENT CORP." target="FIFTY-SEVENTH STREET ASSOCIATES LLC">
+      <data key="d0">Ownership</data>
+      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    </edge>
     <edge source="HUDSON WATERFRONT ASSOCIATES IV, L.P." target="HWA 1290 IV LLC">
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
@@ -6938,14 +7114,6 @@
     <edge source="HUDSON WATERFRONT ASSOCIATES IV, L.P." target="HUDSON WATERFRONT IV CORPORATION">
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
-    </edge>
-    <edge source="JASON D. GREENBLATT" target="THE TRUMP ORGANIZATION, INC.">
-      <data key="d0">Chief Legal Officer</data>
-      <data key="d1">https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html?_r=0</data>
-    </edge>
-    <edge source="JASON D. GREENBLATT" target="DONALD TRUMP JR.">
-      <data key="d0">Business partners</data>
-      <data key="d1">Nexis</data>
     </edge>
     <edge source="PRUDENTIAL FINANCIAL" target="40 WALL STREET LLC">
       <data key="d0">Owns collateralized debt</data>
@@ -6978,6 +7146,10 @@
     <edge source="DARA ORBACH" target="JARED KUSHNER">
       <data key="d0">Siblings</data>
       <data key="d1">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+    </edge>
+    <edge source="LI KA-SHING" target="OSCAR INSURANCE CORPORATION">
+      <data key="d0">Investor</data>
+      <data key="d1">http://www.nytimes.com/2017/01/07/us/politics/jared-kushner-trump-business.html</data>
     </edge>
     <edge source="DT TOWER I LLC" target="DT TOWER I MEMBER CORP.">
       <data key="d0">Ownership</data>
@@ -7067,6 +7239,10 @@
       <data key="d0">In 2012, Putin awarded Order of Friendship to Tillerson</data>
       <data key="d1">http://www.politico.com/magazine/story/2016/12/rex-tillerson-exxon-putin-russia-ties-friend-214515</data>
     </edge>
+    <edge source="REX TILLERSON" target="ALEXANDER NOVAK">
+      <data key="d0">"Tillerson lowered his profile in Russia but continued to meet with non-sanctioned high-level Russian officials in Moscow, including Russian Energy Minister Alexander Novak," per the Washington Post</data>
+      <data key="d1">https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71</data>
+    </edge>
     <edge source="REX TILLERSON" target="EXXON NEFTEGAS LIMITED">
       <data key="d0">Former vice president</data>
       <data key="d1">https://web.archive.org/web/20170103174203/http://corporate.exxonmobil.com/en/company/about-us/management/rex-w-tillerson</data>
@@ -7094,6 +7270,10 @@
     <edge source="REX TILLERSON" target="AMERICAN PETROLEUM INSTITUTE">
       <data key="d0">Member and former chairman</data>
       <data key="d1">https://web.archive.org/web/20170103174203/http://corporate.exxonmobil.com/en/company/about-us/management/rex-w-tillerson</data>
+    </edge>
+    <edge source="REX TILLERSON" target="IGOR SECHIN">
+      <data key="d0">"Tillerson, the CEO of ExxonMobil, has a close and personal relationship with Sechin dating back over a decade," per the Washington Post</data>
+      <data key="d1">https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71</data>
     </edge>
     <edge source="H. B. HICKS" target="OMAROSÉ ONEE MANIGAULT">
       <data key="d0">Mentored by</data>
@@ -7151,9 +7331,9 @@
       <data key="d0">NKA/FKA</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
-    <edge source="JEFF WAGONER" target="THE TRUMP ORGANIZATION, INC.">
-      <data key="d0">Executive vice president for hotel operations, Trump Hotels</data>
-      <data key="d1">https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html | https://www.linkedin.com/in/jeffwagoner</data>
+    <edge source="JULIAN DAVID WHEATLAND" target="SCL GROUP">
+      <data key="d0">Director</data>
+      <data key="d1">https://beta.companieshouse.gov.uk/company/05514098/officers</data>
     </edge>
     <edge source="TRUMP MARKS ISTANBUL II LLC" target="TRUMP MARKS ISTANBUL II CORP.">
       <data key="d0">Ownership</data>
@@ -7215,6 +7395,14 @@
       <data key="d0">Ordained preacher</data>
       <data key="d1">http://thegrio.com/2012/02/27/reality-tv-star-omarosa-has-been-ordained-as-rev-manigault/</data>
     </edge>
+    <edge source="JACK WEISSELBERG" target="ALLEN WEISSELBERG">
+      <data key="d0">Parent/child</data>
+      <data key="d1">https://www.nytimes.com/2016/05/24/business/dealbook/donald-trump-relationship-bankers.html?_r=0</data>
+    </edge>
+    <edge source="JACK WEISSELBERG" target="LADDER CAPITAL FINANCE LLC">
+      <data key="d0">Director of investments</data>
+      <data key="d1">https://www.nytimes.com/2016/05/24/business/dealbook/donald-trump-relationship-bankers.html?_r=0 | https://www.linkedin.com/in/jack-weisselberg-0102bb10</data>
+    </edge>
     <edge source="COMPAGNIE EUROPEENNE DE WAGONS S.A.R.L." target="WILBUR ROSS">
       <data key="d0">Chairman</data>
       <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
@@ -7235,9 +7423,9 @@
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
-    <edge source="WLR RECOVERY FUND IV, L.P." target="WILBUR ROSS">
-      <data key="d0">Listed as asset/income on Public Financial Disclosure Report</data>
-      <data key="d1">https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/88642A2CA81AA6C2852580AB00618C8C/$FILE/Ross%20Wilbur%20L.%20Final%20278.pdf</data>
+    <edge source="ROGER MICHAEL GABB" target="SCL GROUP">
+      <data key="d0">Director</data>
+      <data key="d1">https://beta.companieshouse.gov.uk/company/05514098/officers</data>
     </edge>
     <edge source="DJT OPERATIONS II LLC" target="TAG AIR, INC.">
       <data key="d0">Ownership</data>
@@ -7338,6 +7526,14 @@
     <edge source="TIHH MEMBER LLC" target="TRUMP INTERNATIONAL HOTEL HAWAII LLC">
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    </edge>
+    <edge source="CIT GROUP, INC." target="ONEWEST BANK, FSB">
+      <data key="d0">Ownership</data>
+      <data key="d1">https://variety.com/2015/biz/news/relativity-steve-mnuchin-co-chairman-1201557256/</data>
+    </edge>
+    <edge source="CIT GROUP, INC." target="FINANCIAL FREEDOM">
+      <data key="d0">Subsidiary</data>
+      <data key="d1">https://www.muckrock.com/news/archives/2017/jan/02/steven-mnuchin-trump-relativity-media/</data>
     </edge>
     <edge source="ERIC TRUMP LAND HOLDINGS LLC" target="TRUMP VINEYARD ESTATES LOT 3 OWNER LLC">
       <data key="d0">NKA/FKA</data>
@@ -7611,6 +7807,10 @@
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
+    <edge source="JEFF WAGONER" target="THE TRUMP ORGANIZATION, INC.">
+      <data key="d0">Executive vice president for hotel operations, Trump Hotels</data>
+      <data key="d1">https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html | https://www.linkedin.com/in/jeffwagoner</data>
+    </edge>
     <edge source="TRUMP MARKS MORTGAGE CORP." target="TRUMP MARKS MTG LLC">
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
@@ -7775,9 +7975,9 @@
       <data key="d0">Writer</data>
       <data key="d1">http://www.huffingtonpost.com/eat-the-press/2007/03/09/need-to-know-030907-t_e_43008.html</data>
     </edge>
-    <edge source="ROOMORAMA" target="JOSHUA KUSHNER">
-      <data key="d0">Investor</data>
-      <data key="d1">https://www.crunchbase.com/person/joshua-kushner#/entity</data>
+    <edge source="TRUMP MARKS FINE FOODS LLC" target="TRUMP MARKS FINE FOODS MEMBER CORP.">
+      <data key="d0">Ownership</data>
+      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
     <edge source="CARIBUSINESS MRE LLC" target="CARIBUSINESS INVESTMENTS, S.R.L.">
       <data key="d0">Ownership</data>
@@ -7786,6 +7986,10 @@
     <edge source="TRUMP MARKS WESTCHESTER CORP." target="TRUMP MARKS WESTCHESTER LLC">
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    </edge>
+    <edge source="BUSY BOYS INVESTMENTS LLC" target="DONALD TRUMP JR.">
+      <data key="d0">"Member manager" / Manager</data>
+      <data key="d1">Nexis public records</data>
     </edge>
     <edge source="WISCONSIN REPUBLICAN PARTY" target="REINCE PRIEBUS">
       <data key="d0">Former chairman</data>
@@ -7834,14 +8038,6 @@
     <edge source="FORWARD" target="JOSHUA KUSHNER">
       <data key="d0">Investor</data>
       <data key="d1">https://www.crunchbase.com/person/joshua-kushner#/entity</data>
-    </edge>
-    <edge source="RONALD C. LIEBERMAN" target="THE TRUMP ORGANIZATION, INC.">
-      <data key="d0">Executive vice president for management and development</data>
-      <data key="d1">https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html?_r=0 | https://www.linkedin.com/in/ron-lieberman-184ab970</data>
-    </edge>
-    <edge source="RONALD C. LIEBERMAN" target="NEW YORK CITY DEPARTMENT OF PARKS AND RECREATION">
-      <data key="d0">Oversaw concession contracts</data>
-      <data key="d1">https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html?_r=0</data>
     </edge>
     <edge source="TRUMP MARKS MENSWEAR LLC" target="TRUMP MARKS MENSWEAR MEMBER CORP.">
       <data key="d0">Ownership</data>
@@ -8019,6 +8215,10 @@
       <data key="d0">Owner</data>
       <data key="d1">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
     </edge>
+    <edge source="TRUMP MARKS NEW ROCHELLE CORP." target="TRUMP MARKS NEW ROCHELLE LLC">
+      <data key="d0">Ownership</data>
+      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    </edge>
     <edge source="BERNARD R. DIAMOND" target="DONALD TRUMP JR.">
       <data key="d0">Business partners</data>
       <data key="d1">Nexis</data>
@@ -8111,6 +8311,22 @@
       <data key="d0">"close ties," per Newsweek</data>
       <data key="d1">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
     </edge>
+    <edge source="CAMBRIDGE ANALYTICA" target="SCL GROUP">
+      <data key="d0">Subsidiary</data>
+      <data key="d1">http://www.prnewswire.com/news-releases/cambridge-analytica-congratulates-senator-ted-cruz-on-iowa-caucus-win-300213608.html</data>
+    </edge>
+    <edge source="CAMBRIDGE ANALYTICA" target="ROBERT MERCER">
+      <data key="d0">"Key investor," per The Guardian</data>
+      <data key="d1">https://www.theguardian.com/us-news/2016/nov/23/donald-trump-cambridge-analytica-steve-bannon</data>
+    </edge>
+    <edge source="CAMBRIDGE ANALYTICA" target="ALEXANDER NIX">
+      <data key="d0">CEO</data>
+      <data key="d1">http://www.spectator.co.uk/2016/12/the-british-data-crunchers-who-say-they-helped-donald-trump-to-win/</data>
+    </edge>
+    <edge source="CAMBRIDGE ANALYTICA" target="STEPHEN BANNON">
+      <data key="d0">Board member</data>
+      <data key="d1">https://www.theguardian.com/us-news/2016/nov/23/donald-trump-cambridge-analytica-steve-bannon</data>
+    </edge>
     <edge source="INDIA ASSET RECOVERY GP LTD." target="WILBUR ROSS">
       <data key="d0">Director</data>
       <data key="d1">https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/88642A2CA81AA6C2852580AB00618C8C/$FILE/Ross%20Wilbur%20L.%20Final%20278.pdf</data>
@@ -8142,6 +8358,14 @@
     <edge source="YUN CAPITAL" target="TRUMP ORGANIZATION LLC">
       <data key="d0">"an investment firm involved in Trump Organization projects abroad," per New York Times</data>
       <data key="d1">http://www.nytimes.com/2016/12/04/us/politics/trump-family-ivanka-donald-jr.html</data>
+    </edge>
+    <edge source="IOTA GLOBAL" target="SCL GROUP">
+      <data key="d0">Affiliate/partner</data>
+      <data key="d1">http://www.iota-global.com/contact-us.html</data>
+    </edge>
+    <edge source="IOTA GLOBAL" target="STEVE TATHAM">
+      <data key="d0">Former director of operations</data>
+      <data key="d1">https://www.linkedin.com/in/steve-tatham-ph-d-340aa434</data>
     </edge>
     <edge source="THC RIO MANAGER LLC" target="THC RIO MANAGING MEMBER CORP.">
       <data key="d0">Ownership</data>
@@ -8291,50 +8515,6 @@
       <data key="d0">Director</data>
       <data key="d1">https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/88642A2CA81AA6C2852580AB00618C8C/$FILE/Ross%20Wilbur%20L.%20Final%20278.pdf</data>
     </edge>
-    <edge source="STEPHEN BANNON" target="GENIUS PRODUCTS, INC.">
-      <data key="d0">Chairman / vice chairman</data>
-      <data key="d1">Nexis</data>
-    </edge>
-    <edge source="STEPHEN BANNON" target="BANNON &amp; CO.">
-      <data key="d0">Founder</data>
-      <data key="d1">http://fortune.com/2016/08/17/donald-trump-bannon-mnuchin-goldman/</data>
-    </edge>
-    <edge source="STEPHEN BANNON" target="AMERICAN FREEDOM ALLIANCE">
-      <data key="d0">Director</data>
-      <data key="d1">Nexis</data>
-    </edge>
-    <edge source="STEPHEN BANNON" target="ERIK PRINCE">
-      <data key="d0">"Prince has a close relationship with Breitbart News and Steve Bannon," per The Intercept</data>
-      <data key="d1">https://theintercept.com/2017/01/17/notorious-mercenary-erik-prince-is-advising-trump-from-the-shadows/</data>
-    </edge>
-    <edge source="STEPHEN BANNON" target="AMERICAN VANTAGE / HYPNOTIC INC.">
-      <data key="d0">President</data>
-      <data key="d1">Nexis</data>
-    </edge>
-    <edge source="STEPHEN BANNON" target="BREITBART NEWS">
-      <data key="d0">Former executive chair</data>
-      <data key="d1">http://money.cnn.com/2016/11/14/media/steve-bannon-breitbart-trump-white-house-adviser/</data>
-    </edge>
-    <edge source="STEPHEN BANNON" target="AMERICAN VINTAGE MEDIA CORPORATION">
-      <data key="d0">President</data>
-      <data key="d1">Nexis</data>
-    </edge>
-    <edge source="STEPHEN BANNON" target="TABLOTT, BANNON &amp; CO.">
-      <data key="d0">President</data>
-      <data key="d1">Nexis</data>
-    </edge>
-    <edge source="STEPHEN BANNON" target="GOLDMAN SACHS">
-      <data key="d0">Former investment banker</data>
-      <data key="d1">http://fortune.com/2016/08/17/donald-trump-bannon-mnuchin-goldman/</data>
-    </edge>
-    <edge source="STEPHEN BANNON" target="AFFINITY MEDIA">
-      <data key="d0">Former CEO</data>
-      <data key="d1">https://web.archive.org/web/20160802051453/http://www.g-a-i.org/team/</data>
-    </edge>
-    <edge source="STEPHEN BANNON" target="COUNCIL FOR NATIONAL POLICY">
-      <data key="d0">Member, according to a 2014 membership directory obtained by Southern Poverty Law Center</data>
-      <data key="d1">https://www.splcenter.org/hatewatch/2016/08/31/revealed-conway-bannon-members-secretive-group</data>
-    </edge>
     <edge source="BRIAR HALL DEVELOPMENT LLC" target="TRUMP BRIARCLIFF MANOR DEVELOPMENT LLC">
       <data key="d0">NKA/FKA</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
@@ -8379,7 +8559,7 @@
       <data key="d0">Sarkozy awarded France's Chevalier de la Légion d'Honneur to Barrack</data>
       <data key="d1">http://colonyinc.com/about#fulltext4</data>
     </edge>
-    <edge source="FIFTY-SEVEN MANAGEMENT CORP." target="FIFTY-SEVENTH STREET ASSOCIATES LLC">
+    <edge source="DT MARKS VANCOUVER MANAGER CORP." target="DT MARKS VANCOUVER LP">
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
@@ -8403,10 +8583,6 @@
       <data key="d0">"development partner in India," per New York Times</data>
       <data key="d1">http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html</data>
     </edge>
-    <edge source="MIDLAND RESOURCES HOLDING INC." target="ZAPOROZHSTAL">
-      <data key="d0">Ownership</data>
-      <data key="d1">http://www.theglobeandmail.com/report-on-business/rob-magazine/the-invisible-man/article18228210/?page=all</data>
-    </edge>
     <edge source="ANBANG INSURANCE GROUP" target="KUSHNER COMPANIES">
       <data key="d0">"Anbang would become one of the equity partners in the [666 Fifth Avenue] redevelopment if an agreement is finalized," per New York Times</data>
       <data key="d1">http://www.nytimes.com/2017/01/07/us/politics/jared-kushner-trump-business.html</data>
@@ -8414,10 +8590,6 @@
     <edge source="ANBANG INSURANCE GROUP" target="WU XIAOHUI">
       <data key="d0">Chairman</data>
       <data key="d1">http://www.nytimes.com/2017/01/07/us/politics/jared-kushner-trump-business.html</data>
-    </edge>
-    <edge source="KATHLEEN TROIA MCFARLAND" target="NATIONAL SECURITY COUNCIL">
-      <data key="d0">Former staff member</data>
-      <data key="d1">https://www.theatlantic.com/international/archive/2016/12/mcfarland-trump-reagan-weinberger-flynn-washington-fox/510323/</data>
     </edge>
     <edge source="KATHLEEN TROIA MCFARLAND" target="THE JAMESTOWN FOUNDATION">
       <data key="d0">Board member</data>
@@ -8432,7 +8604,7 @@
       <data key="d1">http://colonyinc.com/about#fulltext4</data>
     </edge>
     <edge source="KEVIN MARINO" target="BILL STEPIEN">
-      <data key="d0">Stepien served as Marino's attorney during the Bridgegate trial</data>
+      <data key="d0">Marino served as Stepien's attorney during the Bridgegate trial</data>
       <data key="d1">http://www.politico.com/story/2017/01/bill-stepien-donald-trump-christie-233199</data>
     </edge>
     <edge source="LOCORR FUNDS" target="40 WALL STREET LLC">
@@ -8462,6 +8634,10 @@
     <edge source="GARY K. NG" target="TRUMP ENTERTAINMENT RESORTS, INC.">
       <data key="d0">Executive Director of Far East Marketing</data>
       <data key="d1">http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=341395</data>
+    </edge>
+    <edge source="GENIUS PRODUCTS, INC." target="STEPHEN BANNON">
+      <data key="d0">Chairman / vice chairman</data>
+      <data key="d1">Nexis</data>
     </edge>
     <edge source="MILES BERGER" target="JARED KUSHNER">
       <data key="d0">"business partner of the Kushners," per New York Magazine</data>
@@ -8539,9 +8715,53 @@
       <data key="d0">Non-executive director</data>
       <data key="d1">http://alcoa.p1.inter.alcoa.com/global/en/about_alcoa/corp_gov/directors/Sorrell_Martin.asp</data>
     </edge>
-    <edge source="NANO-TEX, INC." target="WILBUR ROSS">
-      <data key="d0">Chairman</data>
-      <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
+    <edge source="STEPHEN BANNON" target="BANNON &amp; CO.">
+      <data key="d0">Founder</data>
+      <data key="d1">http://fortune.com/2016/08/17/donald-trump-bannon-mnuchin-goldman/</data>
+    </edge>
+    <edge source="STEPHEN BANNON" target="AMERICAN FREEDOM ALLIANCE">
+      <data key="d0">Director</data>
+      <data key="d1">Nexis</data>
+    </edge>
+    <edge source="STEPHEN BANNON" target="ERIK PRINCE">
+      <data key="d0">"Prince has a close relationship with Breitbart News and Steve Bannon," per The Intercept</data>
+      <data key="d1">https://theintercept.com/2017/01/17/notorious-mercenary-erik-prince-is-advising-trump-from-the-shadows/</data>
+    </edge>
+    <edge source="STEPHEN BANNON" target="AMERICAN VANTAGE / HYPNOTIC INC.">
+      <data key="d0">President</data>
+      <data key="d1">Nexis</data>
+    </edge>
+    <edge source="STEPHEN BANNON" target="BREITBART NEWS">
+      <data key="d0">Former executive chair</data>
+      <data key="d1">http://money.cnn.com/2016/11/14/media/steve-bannon-breitbart-trump-white-house-adviser/</data>
+    </edge>
+    <edge source="STEPHEN BANNON" target="AMERICAN VINTAGE MEDIA CORPORATION">
+      <data key="d0">President</data>
+      <data key="d1">Nexis</data>
+    </edge>
+    <edge source="STEPHEN BANNON" target="TABLOTT, BANNON &amp; CO.">
+      <data key="d0">President</data>
+      <data key="d1">Nexis</data>
+    </edge>
+    <edge source="STEPHEN BANNON" target="GOLDMAN SACHS">
+      <data key="d0">Former investment banker</data>
+      <data key="d1">http://fortune.com/2016/08/17/donald-trump-bannon-mnuchin-goldman/</data>
+    </edge>
+    <edge source="STEPHEN BANNON" target="AFFINITY MEDIA">
+      <data key="d0">Former CEO</data>
+      <data key="d1">https://web.archive.org/web/20160802051453/http://www.g-a-i.org/team/</data>
+    </edge>
+    <edge source="STEPHEN BANNON" target="COUNCIL FOR NATIONAL POLICY">
+      <data key="d0">Member, according to a 2014 membership directory obtained by Southern Poverty Law Center</data>
+      <data key="d1">https://www.splcenter.org/hatewatch/2016/08/31/revealed-conway-bannon-members-secretive-group</data>
+    </edge>
+    <edge source="STEPHEN BANNON" target="REBEKAH MERCER">
+      <data key="d0">"Tied at the hip," per a source to The Hill</data>
+      <data key="d1">http://thehill.com/homenews/campaign/291772-billionaire-father-and-daughter-linked-to-trump-shakeup</data>
+    </edge>
+    <edge source="ROBERT SOMMER" target="OBSERVER MEDIA GROUP">
+      <data key="d0">President</data>
+      <data key="d1">http://www.adweek.com/fishbowlny/jared-kushner-names-no-2/5639</data>
     </edge>
     <edge source="THE COMMITTEE ON CAPITAL MARKET REGULATION INC." target="WILBUR ROSS">
       <data key="d0">Director</data>
@@ -8567,9 +8787,9 @@
       <data key="d0">International Member</data>
       <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
     </edge>
-    <edge source="NATIONAL MUSEUM OF AMERICAN ART" target="WILBUR ROSS">
-      <data key="d0">Chairman</data>
-      <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
+    <edge source="FEDERALIST SOCIETY" target="ELAINE CHAO">
+      <data key="d0">Advisory board member</data>
+      <data key="d1">https://www.commerce.senate.gov/public/_cache/files/e4e680e1-90fe-4a15-a6ae-e25aee036da3/B826198AEC2D70F1523C0C79257A66DF.chao-redacted2.pdf</data>
     </edge>
     <edge source="MICHELLE CARLSON" target="THE TRUMP ORGANIZATION, INC.">
       <data key="d0">Former assistant general counsel</data>
@@ -8627,6 +8847,10 @@
       <data key="d0">Former member, board of directors and executive committee</data>
       <data key="d1">http://static.politico.com/4b/0c/fce86acb43879694090fd430d601/senate-help-committee-paperwork-for-betsy-devos.pdf</data>
     </edge>
+    <edge source="ONEWEST BANK, FSB" target="RELATIVITY MEDIA">
+      <data key="d0">"And disgruntled Relativity investors privately are questioning how a bank Mnuchin once headed – OneWest Bank of Pasadena – was allowed by Relativity to drain $50 million from the studio just weeks prior to the July 30 insolvency filing."</data>
+      <data key="d1">https://variety.com/2015/biz/news/relativity-steve-mnuchin-co-chairman-1201557256/</data>
+    </edge>
     <edge source="FABFITFUN" target="JOSHUA KUSHNER">
       <data key="d0">Investor</data>
       <data key="d1">https://www.crunchbase.com/person/joshua-kushner#/entity</data>
@@ -8679,13 +8903,25 @@
       <data key="d0">Founder</data>
       <data key="d1">https://www.bloomberg.com/news/articles/2017-01-04/trump-pulls-out-of-250-million-tower-plan-in-black-sea-resort</data>
     </edge>
+    <edge source="REBEKAH MERCER" target="MAKE AMERICA NUMBER 1 PAC">
+      <data key="d0">"taking over day-to-day control of a super PAC," per CNN</data>
+      <data key="d1">http://www.cnn.com/2016/09/07/politics/rebekah-mercer-trump-super-pac/</data>
+    </edge>
     <edge source="REBEKAH MERCER" target="ROBERT MERCER">
       <data key="d0">Parent/child</data>
       <data key="d1">https://www.washingtonpost.com/politics/the-rise-of-gop-mega-donor-rebekah-mercer/2016/09/13/85ae3c32-79bf-11e6-beac-57a4a412e93a_story.html?utm_term=.b4e577d44785</data>
     </edge>
+    <edge source="REBEKAH MERCER" target="KELLYANNE CONWAY">
+      <data key="d0">"They're close," per The Atlantic</data>
+      <data key="d1">https://www.theatlantic.com/politics/archive/2017/01/no-one-knows-what-the-powerful-mercers-really-want/514529/</data>
+    </edge>
     <edge source="REBEKAH MERCER" target="COUNCIL FOR NATIONAL POLICY">
       <data key="d0">Donated $50,000</data>
       <data key="d1">http://www.thedailybeast.com/articles/2016/09/13/inside-the-mercers-diy-media-empire.html</data>
+    </edge>
+    <edge source="REBEKAH MERCER" target="RUBY ET VIOLETTE">
+      <data key="d0">Co-owner</data>
+      <data key="d1">https://www.theatlantic.com/politics/archive/2017/01/no-one-knows-what-the-powerful-mercers-really-want/514529/</data>
     </edge>
     <edge source="MULTIPLE MYELOMA RESEARCH FOUNDATION" target="LINDA MCMAHON">
       <data key="d0">Honorary Corporate Chair</data>
@@ -8722,6 +8958,10 @@
     <edge source="TRUMP OCEAN MANAGER, INC." target="TRUMP OCEAN MANAGING MEMBER LLC">
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    </edge>
+    <edge source="OBSERVER MEDIA GROUP" target="JARED KUSHNER">
+      <data key="d0">Former publisher</data>
+      <data key="d1">http://www.businessinsider.com/jared-kushner-steps-down-as-publisher-of-the-observer-2017-1</data>
     </edge>
     <edge source="TEVFIK ARIF" target="TRUMP SOHO MEMBER LLC">
       <data key="d0">Founder of company that helped build Trump Soho, per Financial Times</data>
@@ -8783,13 +9023,25 @@
       <data key="d0">Mortgage</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html | http://www.wsj.com/articles/trump-debts-are-widely-held-on-wall-street-creating-new-potential-conflicts-1483637414</data>
     </edge>
+    <edge source="LADDER CAPITAL FINANCE LLC" target="BRIAN HARRIS">
+      <data key="d0">Founder and CEO</data>
+      <data key="d1">https://www.nytimes.com/2016/05/24/business/dealbook/donald-trump-relationship-bankers.html?_r=0</data>
+    </edge>
     <edge source="FORTE CAPITAL ADVISORS" target="USTC HOLDINGS, LLC">
       <data key="d0">Ownership</data>
       <data key="d1">http://www.businesswire.com/news/home/20101217005249/en/Xe-Services-LLC-Acquired-USTC-Holdings-LLC</data>
     </edge>
-    <edge source="GE ASSET MANAGEMENT" target="40 WALL STREET LLC">
-      <data key="d0">Owns collateralized debt</data>
-      <data key="d1">Morningstar analysis</data>
+    <edge source="ALEXANDER NIX" target="SCL GROUP">
+      <data key="d0">Director</data>
+      <data key="d1">http://adage.com/article/campaign-trail/cambridge-analytica-toast/305439/</data>
+    </edge>
+    <edge source="BRACEWELL &amp; GIULIANI, LLP" target="MAKE AMERICA NUMBER 1 PAC">
+      <data key="d0">Legal and compliance services</data>
+      <data key="d1">http://www.thedailybeast.com/articles/2016/11/05/donald-trump-s-billionaire-backed-super-pac-also-paying-rudy-giuliani-s-law-firms.html</data>
+    </edge>
+    <edge source="BRACEWELL &amp; GIULIANI, LLP" target="BRACEWELL">
+      <data key="d0">NKA/FKA</data>
+      <data key="d1">http://blogs.wsj.com/law/2016/01/19/bracewell-giuliani-is-losing-giuliani/</data>
     </edge>
     <edge source="TRUMP MARKS DUBAI LLC" target="TRUMP MARKS DUBAI CORP.">
       <data key="d0">Ownership</data>
@@ -8874,6 +9126,10 @@
     <edge source="KUSHNER COMPANIES" target="LAURENT MORALI">
       <data key="d0">President</data>
       <data key="d1">http://www.nytimes.com/2017/01/07/us/politics/jared-kushner-trump-business.html</data>
+    </edge>
+    <edge source="KUSHNER COMPANIES" target="GREENBERG TRAURIG LLP">
+      <data key="d0">Legal services</data>
+      <data key="d1">http://www.nydailynews.com/opinion/wayne-barrett-donald-trump-rudy-giuliani-peas-pod-article-1.2776357</data>
     </edge>
     <edge source="KUSHNER COMPANIES" target="NICOLE KUSHNER MEYER">
       <data key="d0">Principal partner</data>
@@ -9103,9 +9359,9 @@
       <data key="d0">Former executive director</data>
       <data key="d1">http://www.nj.com/politics/index.ssf/2016/08/bill_stepien_trumps_new_campaign_field_director_ha.html</data>
     </edge>
-    <edge source="HOUSE BANKING COMMITTEE" target="SHANNON MCGAHN">
-      <data key="d0">Staff Director</data>
-      <data key="d1">http://www.theatlantic.com/politics/archive/2015/05/shannon-mcgahn-the-staffer-behind-house-republicans-financial-services-strategy/446445/</data>
+    <edge source="STEVE TATHAM" target="SCL GROUP">
+      <data key="d0">Director Defence Division SCL Group</data>
+      <data key="d1">https://www.linkedin.com/in/steve-tatham-ph-d-340aa434</data>
     </edge>
     <edge source="THE HUDSON INSTITUTE" target="ELAINE CHAO">
       <data key="d0">Distinguished Fellow</data>
@@ -9175,6 +9431,10 @@
       <data key="d0">Investor</data>
       <data key="d1">http://www.businessinsider.com/what-is-cadre-and-how-to-invest-in-its-real-estate-deals-2016-6</data>
     </edge>
+    <edge source="JARED KUSHNER" target="AVRAM LEBOR">
+      <data key="d0">Kushner hired him for his real estate company</data>
+      <data key="d1">https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company</data>
+    </edge>
     <edge source="JARED KUSHNER" target="42FLOORS">
       <data key="d0">Investor / board member</data>
       <data key="d1">https://www.crunchbase.com/person/jared-kushner-kc</data>
@@ -9223,6 +9483,14 @@
       <data key="d0">Director</data>
       <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
     </edge>
+    <edge source="BEHAVIOURAL DYNAMICS INSTITUTE" target="SCL GROUP">
+      <data key="d0">Affiliate/partner</data>
+      <data key="d1">https://www.bloomberg.com/politics/features/2015-11-12/is-the-republican-party-s-killer-data-app-for-real-</data>
+    </edge>
+    <edge source="BEHAVIOURAL DYNAMICS INSTITUTE" target="NIGEL OAKES">
+      <data key="d0">Chairman</data>
+      <data key="d1">https://www.linkedin.com/in/nigel-oakes-fri-99b8177</data>
+    </edge>
     <edge source="DC CAPITAL PARTNERS" target="JOHN F. KELLY">
       <data key="d0">Board member</data>
       <data key="d1">https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/14D3115B8C40E407852580A400591F25/$FILE/Kelly,%20John%20F.%20final278.pdf</data>
@@ -9266,6 +9534,10 @@
     <edge source="WILBUR ROSS" target="HARVARD BUSINESS SCHOOL CLUB OF NEW YORK, INC.">
       <data key="d0">Director</data>
       <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
+    </edge>
+    <edge source="WILBUR ROSS" target="WLR RECOVERY FUND IV, L.P.">
+      <data key="d0">Listed as asset/income on Public Financial Disclosure Report</data>
+      <data key="d1">https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/88642A2CA81AA6C2852580AB00618C8C/$FILE/Ross%20Wilbur%20L.%20Final%20278.pdf</data>
     </edge>
     <edge source="WILBUR ROSS" target="HOMEWARD RESIDENTIAL, INC.">
       <data key="d0">Chairman and president</data>
@@ -9419,6 +9691,10 @@
       <data key="d0">Sole member</data>
       <data key="d1">https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/88642A2CA81AA6C2852580AB00618C8C/$FILE/Ross%20Wilbur%20L.%20Final%20278.pdf</data>
     </edge>
+    <edge source="WILBUR ROSS" target="NBNK INVESTMENTS PLC">
+      <data key="d0">Director/Chairman</data>
+      <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
+    </edge>
     <edge source="WILBUR ROSS" target="INDIA ASSET RECOVERY ASSOCIATES LLC">
       <data key="d0">Managing member</data>
       <data key="d1">https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/88642A2CA81AA6C2852580AB00618C8C/$FILE/Ross%20Wilbur%20L.%20Final%20278.pdf</data>
@@ -9452,6 +9728,10 @@
       <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
     </edge>
     <edge source="WILBUR ROSS" target="TOWN OF PALM BEACH RETIREMENT SYSTEM">
+      <data key="d0">Chairman</data>
+      <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
+    </edge>
+    <edge source="WILBUR ROSS" target="NANO-TEX, INC.">
       <data key="d0">Chairman</data>
       <data key="d1">https://www.commerce.senate.gov/public/_cache/files/ca64536e-d37e-483c-9a80-3a6e05ea966c/245CA31F4C14B38C7619E9A42C10D481.ross---public-questionnaire-redacted.pdf</data>
     </edge>
@@ -9603,10 +9883,6 @@
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
-    <edge source="TRUMP BOOKS LLC" target="TRUMP BOOKS MANAGER CORP.">
-      <data key="d0">Ownership</data>
-      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
-    </edge>
     <edge source="TRUMP MARKS LAS VEGAS CORP." target="TRUMP MARKS LAS VEGAS LLC">
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
@@ -9663,9 +9939,9 @@
       <data key="d0">Former deputy chief of staff</data>
       <data key="d1">http://www.politico.com/story/2017/01/bill-stepien-donald-trump-christie-233199</data>
     </edge>
-    <edge source="DT MARKS VANCOUVER MANAGER CORP." target="DT MARKS VANCOUVER LP">
-      <data key="d0">Ownership</data>
-      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    <edge source="COOPER INDUSTRIES" target="DAN COATS">
+      <data key="d0">Co-chairman</data>
+      <data key="d1">http://www.nytimes.com/2010/11/14/us/politics/14coats.html?nl=todaysheadlines&amp;emc=a23</data>
     </edge>
     <edge source="TRUMP MARKS LP" target="TRUMP MARKS HOLDINGS, L.P.">
       <data key="d0">NKA/FKA</data>
@@ -9714,6 +9990,14 @@
     <edge source="BEACON GLOBAL STRATEGIES" target="JOHN F. KELLY">
       <data key="d0">Advisor</data>
       <data key="d1">https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/14D3115B8C40E407852580A400591F25/$FILE/Kelly,%20John%20F.%20final278.pdf</data>
+    </edge>
+    <edge source="GREENBERG TRAURIG LLP" target="MAKE AMERICA NUMBER 1 PAC">
+      <data key="d0">Legal and compliance services</data>
+      <data key="d1">http://www.thedailybeast.com/articles/2016/11/05/donald-trump-s-billionaire-backed-super-pac-also-paying-rudy-giuliani-s-law-firms.html</data>
+    </edge>
+    <edge source="GREENBERG TRAURIG LLP" target="THE TRUMP ORGANIZATION, INC.">
+      <data key="d0">Legal services</data>
+      <data key="d1">http://www.nydailynews.com/opinion/wayne-barrett-donald-trump-rudy-giuliani-peas-pod-article-1.2776357</data>
     </edge>
     <edge source="REDDIT" target="JOSHUA KUSHNER">
       <data key="d0">Investor</data>
@@ -9803,13 +10087,13 @@
       <data key="d0">Mortgage</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
-    <edge source="TRUMP MARKS NEW ROCHELLE CORP." target="TRUMP MARKS NEW ROCHELLE LLC">
-      <data key="d0">Ownership</data>
-      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
-    </edge>
     <edge source="TRUMP PLAZA MEMBER INC." target="TRUMP PLAZA LLC">
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    </edge>
+    <edge source="ROBERT MERCER" target="BREITBART NEWS">
+      <data key="d0">"One of the most generous backers," per Politico</data>
+      <data key="d1">http://www.politico.com/blogs/media/2015/04/hedge-fund-magnate-backing-cruz-is-major-investor-in-breitbart-news-network-205434 | http://www.newsweek.com/2016/12/02/robert-mercer-trump-donor-bannon-pac-523366.html</data>
     </edge>
     <edge source="DT MARKS QATAR MEMBER CORP." target="DT MARKS QATAR LLC">
       <data key="d0">Ownership</data>
@@ -9927,18 +10211,6 @@
       <data key="d0">Operator</data>
       <data key="d1">http://www.nytimes.com/2016/12/04/us/politics/trump-family-ivanka-donald-jr.html</data>
     </edge>
-    <edge source="COOPER INDUSTRIES" target="DAN COATS">
-      <data key="d0">Co-chairman</data>
-      <data key="d1">http://www.nytimes.com/2010/11/14/us/politics/14coats.html?nl=todaysheadlines&amp;emc=a23</data>
-    </edge>
-    <edge source="MIKE PENCE" target="NETWORK INDIANA">
-      <data key="d0">Syndicated the Mike Pence Show via radio</data>
-      <data key="d1">https://www.bostonglobe.com/news/nation/2016/07/19/for-mike-pence-political-career-was-launched-when-his-talk-radio-show-took-off/KUkYKbl77vJ6yntVBBUM0L/story.html</data>
-    </edge>
-    <edge source="MIKE PENCE" target="JEN PAVLIK">
-      <data key="d0">Deputy chief of staff</data>
-      <data key="d1">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
-    </edge>
     <edge source="HEALTH AND HUMAN SERVICES" target="ANDREW BREMBERG">
       <data key="d0">Former employee</data>
       <data key="d1">https://www.linkedin.com/in/andrew-bremberg-7170938</data>
@@ -10036,7 +10308,7 @@
       <data key="d1">http://www.postandcourier.com/business/trump-firm-buys-n-charleston-property-d-b-pace-gains/article_d7c4d225-2cf1-5e64-8571-87ec203c569a.html</data>
     </edge>
     <edge source="DONALD TRUMP JR." target="TRUMP ORGANIZATION LLC">
-      <data key="d0">"reponsible for all of the commercial leasing"</data>
+      <data key="d0">"responsible for all of the commercial leasing"</data>
       <data key="d1">http://www.trump.com/the-next-generation/donald-trump-jr/</data>
     </edge>
     <edge source="DONALD TRUMP JR." target="ANDRIY ZAIKA">
@@ -10055,9 +10327,9 @@
       <data key="d0">Married</data>
       <data key="d1">General knowledge</data>
     </edge>
-    <edge source="DONALD TRUMP JR." target="BUSY BOYS INVESTMENTS LLC">
-      <data key="d0">"Member manager" / Manager</data>
-      <data key="d1">Nexis public records</data>
+    <edge source="DONALD TRUMP JR." target="JASON D. GREENBLATT">
+      <data key="d0">Business partners</data>
+      <data key="d1">Nexis</data>
     </edge>
     <edge source="DONALD TRUMP JR." target="SG BLOCKS INC.">
       <data key="d0">Shareholder / senior advisor</data>
@@ -10098,6 +10370,10 @@
     <edge source="CITIBANK" target="ELAINE CHAO">
       <data key="d0">Former employee</data>
       <data key="d1">https://www.commerce.senate.gov/public/_cache/files/e4e680e1-90fe-4a15-a6ae-e25aee036da3/B826198AEC2D70F1523C0C79257A66DF.chao-redacted2.pdf</data>
+    </edge>
+    <edge source="JEN PAVLIK" target="MIKE PENCE">
+      <data key="d0">Deputy chief of staff</data>
+      <data key="d1">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
     </edge>
     <edge source="THC SHENZHEN HOTEL MANAGER MEMBER CORP." target="THC SHENZHEN HOTEL MANAGER LLC">
       <data key="d0">Ownership</data>
@@ -10159,6 +10435,10 @@
       <data key="d0">Former employee</data>
       <data key="d1">https://www.washingtonpost.com/news/post-politics/wp/2016/12/27/trump-names-bush-administration-veteran-thomas-bossert-to-white-house-homeland-security-post/?utm_term=.bd6b8bb7e9e8</data>
     </edge>
+    <edge source="ALL CHILDREN MATTER PAC" target="BETSY DEVOS">
+      <data key="d0">Co-founder</data>
+      <data key="d1">http://www.politico.com/story/2016/11/betsy-devos-all-children-matter-election-fines-231954</data>
+    </edge>
     <edge source="REINCE PRIEBUS" target="REPUBLICAN NATIONAL COMMITTEE">
       <data key="d0">Former chairman</data>
       <data key="d1">https://www.gop.com/author/reince-priebus</data>
@@ -10174,6 +10454,10 @@
     <edge source="REINCE PRIEBUS" target="KATIE WALSH">
       <data key="d0">Deputy chief of staff</data>
       <data key="d1">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+    </edge>
+    <edge source="SHANNON MCGAHN" target="HOUSE BANKING COMMITTEE">
+      <data key="d0">Staff Director</data>
+      <data key="d1">http://www.theatlantic.com/politics/archive/2015/05/shannon-mcgahn-the-staffer-behind-house-republicans-financial-services-strategy/446445/</data>
     </edge>
     <edge source="PAYDEN &amp; RYGEL" target="40 WALL STREET LLC">
       <data key="d0">Owns collateralized debt</data>
@@ -10203,6 +10487,10 @@
       <data key="d0">Former controller</data>
       <data key="d1">http://docshare01.docshare.tips/files/9589/95892591.pdf</data>
     </edge>
+    <edge source="NATIONAL WWII MUSEUM" target="ELAINE CHAO">
+      <data key="d0">Former Advisory Board member</data>
+      <data key="d1">https://www.commerce.senate.gov/public/_cache/files/e4e680e1-90fe-4a15-a6ae-e25aee036da3/B826198AEC2D70F1523C0C79257A66DF.chao-redacted2.pdf</data>
+    </edge>
     <edge source="DOLE FOOD COMPANY" target="ELAINE CHAO">
       <data key="d0">Former director</data>
       <data key="d1">https://www.commerce.senate.gov/public/_cache/files/e4e680e1-90fe-4a15-a6ae-e25aee036da3/B826198AEC2D70F1523C0C79257A66DF.chao-redacted2.pdf</data>
@@ -10218,6 +10506,10 @@
     <edge source="WPP" target="MARTIN SORRELL">
       <data key="d0">CEO</data>
       <data key="d1">http://www.wpp.com/wpp/about/whoweare/leadership/</data>
+    </edge>
+    <edge source="SCL GROUP" target="NIGEL OAKES">
+      <data key="d0">CEO</data>
+      <data key="d1">https://www.linkedin.com/in/nigel-oakes-fri-99b8177</data>
     </edge>
     <edge source="DT BALI TECHNICAL SERVICES MANAGER MEMBER CORP." target="DT BALI TECHNICAL SERVICES MANAGER LLC">
       <data key="d0">Ownership</data>
@@ -10247,6 +10539,14 @@
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
+    <edge source="DAVID HOROWITZ" target="DAVID HOROWITZ FREEDOM CENTER">
+      <data key="d0">Founder</data>
+      <data key="d1">http://www.horowitzfreedomcenter.org/david-horowitz</data>
+    </edge>
+    <edge source="DAVID HOROWITZ" target="STEPHEN MILLER">
+      <data key="d0">"Miller considers Horowitz a mentor," per Politico</data>
+      <data key="d1">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+    </edge>
     <edge source="THE VANGUARD GROUP, INC." target="40 WALL STREET LLC">
       <data key="d0">Owns collateralized debt</data>
       <data key="d1">Morningstar analysis</data>
@@ -10266,10 +10566,6 @@
     <edge source="ALTEGRIS" target="40 WALL STREET LLC">
       <data key="d0">Owns collateralized debt</data>
       <data key="d1">Morningstar analysis</data>
-    </edge>
-    <edge source="TRUMP MARKS FINE FOODS MEMBER CORP." target="TRUMP MARKS FINE FOODS LLC">
-      <data key="d0">Ownership</data>
-      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
     <edge source="TRUMP ENDEAVOR 12 MANAGER CORP." target="TRUMP NATIONAL DORAL">
       <data key="d0">Ownership</data>
@@ -10312,10 +10608,6 @@
       <data key="d1">https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/293C77FB757687A4852580A3002C5885/$FILE/Chao,%20Elaine%20L.%20%20final278.pdf</data>
     </edge>
     <edge source="ELAINE CHAO" target="THE INSTITUTE OF POLITICS AT HARVARD UNIVERSITY">
-      <data key="d0">Advisory board member</data>
-      <data key="d1">https://www.commerce.senate.gov/public/_cache/files/e4e680e1-90fe-4a15-a6ae-e25aee036da3/B826198AEC2D70F1523C0C79257A66DF.chao-redacted2.pdf</data>
-    </edge>
-    <edge source="ELAINE CHAO" target="FEDERALIST SOCIETY">
       <data key="d0">Advisory board member</data>
       <data key="d1">https://www.commerce.senate.gov/public/_cache/files/e4e680e1-90fe-4a15-a6ae-e25aee036da3/B826198AEC2D70F1523C0C79257A66DF.chao-redacted2.pdf</data>
     </edge>
@@ -10363,6 +10655,14 @@
       <data key="d0">Board member</data>
       <data key="d1">https://votesmart.org/candidate/biography/126623/linda-mcmahon#.WHQVI7YrKEI</data>
     </edge>
+    <edge source="TRUMP MARKS FT. LAUDERDALE MEMBER CORP." target="TRUMP MARKS FT. LAUDERDALE LLC">
+      <data key="d0">Ownership</data>
+      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    </edge>
+    <edge source="GARRETT MURCH" target="JEFF SESSIONS">
+      <data key="d0">Former communications advisor</data>
+      <data key="d1">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992 | https://www.linkedin.com/in/garrett-murch-9800b928</data>
+    </edge>
     <edge source="EURASIAN RESOURCES GROUP" target="ALEXANDER MASHKEVICH">
       <data key="d0">Chairman of the Board</data>
       <data key="d1">https://www.eurasianresources.lu/en/pages/corporate-governance/board-of-directors</data>
@@ -10383,6 +10683,14 @@
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
     </edge>
+    <edge source="VLADIMIR PUTIN" target="ALEXANDER NOVAK">
+      <data key="d0">Energy minister</data>
+      <data key="d1">https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71</data>
+    </edge>
+    <edge source="VLADIMIR PUTIN" target="IGOR SECHIN">
+      <data key="d0">Former deputy prime minister</data>
+      <data key="d1">https://www.ft.com/content/a8f24922-cef4-11e3-9165-00144feabdc0</data>
+    </edge>
     <edge source="DT BALI TECHNICAL SERVICES MANAGER LLC" target="TTTT VENTURE LLC">
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
@@ -10398,6 +10706,10 @@
     <edge source="CONTINENTAL AIRLINES, INC." target="THOMAS J. BARRACK JR.">
       <data key="d0">Former board member</data>
       <data key="d1">http://colonyinc.com/about#fulltext4</data>
+    </edge>
+    <edge source="ROOMORAMA" target="JOSHUA KUSHNER">
+      <data key="d0">Investor</data>
+      <data key="d1">https://www.crunchbase.com/person/joshua-kushner#/entity</data>
     </edge>
     <edge source="HOWABOUTWE" target="JOSHUA KUSHNER">
       <data key="d0">Investor</data>
@@ -10464,10 +10776,6 @@
       <data key="d1">Morningstar analysis</data>
     </edge>
     <edge source="TRUMP TOWER COMMERCIAL LLC" target="DELAWARE MANAGEMENT HOLDINGS, INC.">
-      <data key="d0">Owns collateralized debt</data>
-      <data key="d1">Morningstar analysis</data>
-    </edge>
-    <edge source="TRUMP TOWER COMMERCIAL LLC" target="PIONEER INVESTMENTS">
       <data key="d0">Owns collateralized debt</data>
       <data key="d1">Morningstar analysis</data>
     </edge>
@@ -10538,6 +10846,10 @@
     <edge source="TRUMP MARKS JERSEY CITY LLC" target="TRUMP MARKS JERSEY CITY CORP.">
       <data key="d0">Ownership</data>
       <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    </edge>
+    <edge source="MIKE PENCE" target="NETWORK INDIANA">
+      <data key="d0">Syndicated the Mike Pence Show via radio</data>
+      <data key="d1">https://www.bostonglobe.com/news/nation/2016/07/19/for-mike-pence-political-career-was-launched-when-his-talk-radio-show-took-off/KUkYKbl77vJ6yntVBBUM0L/story.html</data>
     </edge>
     <edge source="GUGGENHEIM PARTNERS" target="40 WALL STREET LLC">
       <data key="d0">Owns collateralized debt</data>
@@ -10787,6 +11099,10 @@
       <data key="d0">SVP of Marketing Operations</data>
       <data key="d1">http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=341395</data>
     </edge>
+    <edge source="JEFF SESSIONS" target="STEPHEN MILLER">
+      <data key="d0">Former chief of communications</data>
+      <data key="d1">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+    </edge>
     <edge source="JEFF SESSIONS" target="AJIT PAI">
       <data key="d0">Former deputy chief counsel</data>
       <data key="d1">https://www.fcc.gov/about/leadership/ajit-pai</data>
@@ -10794,6 +11110,10 @@
     <edge source="THE PHILANTHROPY ROUNDTABLE" target="BETSY DEVOS">
       <data key="d0">Chairwoman</data>
       <data key="d1">http://static.politico.com/4b/0c/fce86acb43879694090fd430d601/senate-help-committee-paperwork-for-betsy-devos.pdf</data>
+    </edge>
+    <edge source="JASON D. GREENBLATT" target="THE TRUMP ORGANIZATION, INC.">
+      <data key="d0">Chief Legal Officer</data>
+      <data key="d1">https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html?_r=0</data>
     </edge>
     <edge source="STEVEN LEVINE" target="THE ERIC TRUMP FOUNDATION">
       <data key="d0">Director</data>
@@ -10827,9 +11147,9 @@
       <data key="d0">Policy director for Walker's campaign</data>
       <data key="d1">http://www.modernhealthcare.com/article/20161111/NEWS/161119989?utm_source=modernhealthcare&amp;utm_medium=email&amp;utm_content=20161111-NEWS-161119989&amp;utm_campaign=mh-alert</data>
     </edge>
-    <edge source="TRUMP MARKS FT. LAUDERDALE LLC" target="TRUMP MARKS FT. LAUDERDALE MEMBER CORP.">
-      <data key="d0">Ownership</data>
-      <data key="d1">https://www.documentcloud.org/documents/2838696-Trump-2016-Financial-Disclosure.html</data>
+    <edge source="RICARDO HAZOURY" target="THE TRUMP ORGANIZATION, INC.">
+      <data key="d0">Business partner</data>
+      <data key="d1">https://www.washingtonpost.com/classic-apps/high-rollers-risk-takers-and-rule-benders-donald-trumps-unorthodox-roster-of-overseas-business-partners/2017/01/13/73797ab6-cc37-11e6-b8a2-8c2a61b0436f_story.html?utm_term=.c2f475ce19c6</data>
     </edge>
     <edge source="NEUROCORE, LLC" target="BETSY DEVOS">
       <data key="d0">Former member / manager</data>
@@ -10899,10 +11219,6 @@
       <data key="d0">Member</data>
       <data key="d1">http://static.politico.com/4b/0c/fce86acb43879694090fd430d601/senate-help-committee-paperwork-for-betsy-devos.pdf</data>
     </edge>
-    <edge source="BETSY DEVOS" target="ALL CHILDREN MATTER PAC">
-      <data key="d0">Co-founder</data>
-      <data key="d1">http://www.politico.com/story/2016/11/betsy-devos-all-children-matter-election-fines-231954</data>
-    </edge>
     <edge source="DAN COATS" target="KING &amp; SPALDING">
       <data key="d0">Lobbyist</data>
       <data key="d1">http://www.nytimes.com/2010/11/14/us/politics/14coats.html?nl=todaysheadlines&amp;emc=a23</data>
@@ -10935,6 +11251,10 @@
       <data key="d0">Business partnership</data>
       <data key="d1">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
     </edge>
+    <edge source="MAKE AMERICA NUMBER 1 PAC" target="KELLYANNE CONWAY">
+      <data key="d0">"led the PAC when it was backing [Ted Cruz]," per the Daily Beast</data>
+      <data key="d1">http://www.thedailybeast.com/articles/2016/11/05/donald-trump-s-billionaire-backed-super-pac-also-paying-rudy-giuliani-s-law-firms.html</data>
+    </edge>
     <edge source="PANCHSHIL REALTY" target="TRUMP ORGANIZATION LLC">
       <data key="d0">Partners on Trump Towers Pune</data>
       <data key="d1">http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html</data>
@@ -10954,6 +11274,10 @@
     <edge source="ALLEN WEISSELBERG" target="THE TRUMP ORGANIZATION, INC.">
       <data key="d0">CFO</data>
       <data key="d1">http://blogs.wsj.com/cfo/2016/11/05/donald-trumps-loyal-numbers-man/</data>
+    </edge>
+    <edge source="VICTOR HEGGELMAN" target="CARLISLE MANAGEMENT">
+      <data key="d0">CFO</data>
+      <data key="d1">http://cmclux.com/team/</data>
     </edge>
     <edge source="THE TRUMP ORGANIZATION, INC." target="HOLBORN GROUP OF COMPANIES">
       <data key="d0">Listed as partners on the Trump International Hotel &amp; Tower in Vancouver</data>
