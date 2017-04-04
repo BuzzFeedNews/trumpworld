@@ -1,0 +1,63 @@
+# Centrality
+
+What entities are the top 5% connected nodes (in terms of 
+[*degree*](https://en.wikipedia.org/wiki/Centrality#Degree_centrality))?
+
+```{r}
+threshold <- 0.05
+degree <- G %>% degree
+lim <- degree %>% quantile(probs = 1 - threshold)
+top <-
+  data.frame(node = V(G)$id, degree = degree) %>% 
+  filter(degree >= lim) %>% 
+  arrange(-degree)
+top %>% kable
+```
+
+Not surprisingly, `r top$node[1]` is the most connected.
+
+What entities are the top 5% connected nodes (in terms of 
+[*closeness*](https://en.wikipedia.org/wiki/Centrality#Closeness_centrality))?
+
+Closeness is a measure of how many steps are required to access every other node.
+It's a measure of how close a node is to all the action.
+A node with high closeness, however, doesn't necessarily have to have very many connections or be in between relationships.
+
+```{r}
+closeness <- G %>% closeness
+lim <- closeness %>% quantile(probs = 1 - threshold)
+top <-
+  data.frame(node = V(G)$id, closeness = closeness) %>% 
+  filter(closeness >= lim) %>% 
+  arrange(-closeness)
+top %>% kable
+```
+
+What entities are the top 5% connected nodes (in terms of 
+[**betweenness**](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality))?
+
+Betweenness is a measure of how often a node is in the pathway between two other nodes.
+I.e., a node with high betweenness can be a key player in introducing a large group of nodes to another large group of nodes.
+Such a node doesn't necessarily have to have a large number of connections themselves.
+But they could be in a unique position of influence in the network.
+
+```{r}
+betweenness <- G %>% betweenness
+lim <- betweenness %>% quantile(probs = 1 - threshold)
+top <-
+  data.frame(node = V(G)$id, betweenness = betweenness) %>% 
+  filter(betweenness >= lim) %>% 
+  arrange(-betweenness)
+top %>% kable
+```
+
+Find communities using the edge betweenness algorithm.
+
+```{r}
+C <- edge.betweenness.community(G)
+sizes(C)[order(sizes(C), decreasing=TRUE)]
+```
+
+Wow.
+That's one big community there with `r max(sizes(C))` nodes.
+Let's call this community the **primary community**.

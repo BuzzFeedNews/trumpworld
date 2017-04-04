@@ -1,0 +1,16 @@
+# Read data
+
+Read the `.graphml` file.
+
+```{r}
+f <- "../data/trumpworld.graphml"
+file.info(f)
+G <- f %>% read_graph(format = "graphml")
+df <- igraph::as_data_frame(G, what = "both")
+df$vertices <-
+  df$vertices %>% 
+  mutate(node = 1:nrow(.),
+         label = id) %>% 
+  select(-matches("id"))
+str(df)
+```

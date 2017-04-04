@@ -1,0 +1,21 @@
+# Visualize
+
+Produce zoomable, interactive network plots of
+
+* The **entire** network
+  * [HTML](bignet.html)
+* The **primary community** network
+  * [HTML](primenet.html)
+
+```{r}
+plotNet(G, "../docs/bignet.html")
+```
+
+```{r}
+communityID <- names(sizes(C))[sizes(C) == max(sizes(C))]
+nodesInPrimeNet <- (1:nrow(df$vertices))[C$membership == communityID]
+G1 <-
+  G %>% 
+  induced_subgraph(df$vertices$node[nodesInPrimeNet])
+plotNet(G1, "../docs/primenet.html")
+```
